@@ -84,7 +84,7 @@ def modifier_document(doc_id, annee, titre, type_doc, formation, filiere, auteur
     sauvegarder_donnees(donnees)
 
 # Titre principal
-st.title("📚 Système de Gestion des Documents Archivés - ISSEA")
+st.title("📚 Système de Gestion des Mémoires et Rapports Archivés - ISSEA")
 st.markdown("---")
 
 # Barre latérale pour la navigation
