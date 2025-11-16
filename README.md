@@ -1,10 +1,10 @@
 # 📚 Application de Gestion des Documents Archivés - ISSEA
 
-Application Streamlit pour gérer efficacement les documents archivés de l'ISSEA avec stockage en JSON.
+Application Streamlit pour gérer efficacement les documents (mémoire, rapport de stage, projet tutoré et groupe de travail (GT) archivés de l'ISSEA avec stockage en JSON.
 
 ## 📊 Base de données ISSEA
 
-L'application contient **304 documents** archivés de l'ISSEA couvrant la période de **1988 à 2024**.
+L'application contient **550 documents** archivés de l'ISSEA couvrant la période de **1988 à 2024**.
 
 ### Statistiques de la base de données
 - **Période couverte** : 1988 - 2024 (36 ans)
