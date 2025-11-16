@@ -1,0 +1,5492 @@
+[
+  {
+    "id": 1,
+    "annee": 1988,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Bernard Docgne",
+    "titre": "Population et logements à Yaoundé : situation actuelle et perspectives",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 2,
+    "annee": 1988,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "DJIMTOIGNAR NADJIOUNOUM",
+    "titre": "Les voies de communication et developpement économique du Tchad",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 3,
+    "annee": 1988,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "DOUM RIBOUEM",
+    "titre": "Traitement micro-informatique de la déclaration statistique et fiscale : contribution à la publication des résultats du recensement industriel et commercial",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 4,
+    "annee": 1988,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Emmanuel MBARGA",
+    "titre": "Etude du nouveau code des investissements du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 5,
+    "annee": 1988,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "FOUOKING Joseph",
+    "titre": "L'endettement des pays en développement : cas particulier du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 6,
+    "annee": 1988,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "François Guerenga",
+    "titre": "Essai d'évaluation du progrès agricole en République Centrafricaine",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 7,
+    "annee": 1988,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Gerard RABEMANANJARA",
+    "titre": "Etude du trafic aerien Malagasy de passagers : tentative de modélisation des principales lignes intérieurs",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 8,
+    "annee": 1988,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MBONEKO Benoit",
+    "titre": "Problèmes des transports et développement économique des pays enclavés",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 9,
+    "annee": 1988,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MOMO Joseph Jean-Marie",
+    "titre": "Salaire efficace et répartition de la consommation au sein de la famille",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 10,
+    "annee": 1988,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MOUSSOUNDA Jean Bernard",
+    "titre": "Autosuffisante alimentaire dans les pays d'Afrique noire au sud du Sahara : cas du Cameroun et du Congo",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 11,
+    "annee": 1988,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "NGAMBA Simon Cyril",
+    "titre": "Le marché du bétail en RCA",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 12,
+    "annee": 1988,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "NKURUNZIZA Gérard",
+    "titre": "La production et la commercialisation du coton : cas du Burundi",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 13,
+    "annee": 1988,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "NOUETAGNI Samuel",
+    "titre": "Incidence de l'industrie des assurances sur l'économie camerounaise",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 14,
+    "annee": 1988,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "ODI Dieudoné",
+    "titre": "Les stratégies familiales de financement de l'éducation des enfants",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 15,
+    "annee": 1988,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "SANDOCK Michel",
+    "titre": "Les accidents de la circulation routière au Cameroun et leurs conséquences socio-économiques",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 16,
+    "annee": 1988,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "TABANGOLI Calixte Medaro",
+    "titre": "Exploitation des statistiques dans la perspective du budget de l'organisation africaine de la propriété intellectuelle (OAPI)",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 17,
+    "annee": 1988,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "TCHIEUMALEU Jean-Marie",
+    "titre": "L'exploitation foresrtière et sa contribution à l'économie nationale",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 18,
+    "annee": 1988,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "TIWINOT Francis",
+    "titre": "La crise actuelle et l'évolution de l'activité bancaire au Gabon",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 19,
+    "annee": 1989,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "ADAM AHMAT",
+    "titre": "Analyse de l'emploi dans le secteur non-structuré moderne à Bangui",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 20,
+    "annee": 1989,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "DZOSSA Anaclet Désiré",
+    "titre": "Essai de détermination des causes des déperditions scolaires à l'Université de Yaoundé",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 21,
+    "annee": 1989,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "EDOA Gilbert Didier",
+    "titre": "Etude de la politique camerounaise de protection des industries locales",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 22,
+    "annee": 1989,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "KABIKISSA Bernard",
+    "titre": "Incidence de la monnaie de transaction sur la balance commerciale Congolaise",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 23,
+    "annee": 1989,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "KOSTELNGAR NODJIMADJI",
+    "titre": "Nouvelle approche de la stratégie du développement agricole au Tchad",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 24,
+    "annee": 1989,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "KOUMBA Donatien",
+    "titre": "Incidence du système de tarification du Chemin de Fer Congo-Océan (CFCO) sur l'allocation des ressources au Congo",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 25,
+    "annee": 1989,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MBANIA YOUDJEU Louis",
+    "titre": "Les cours des produits agricoles de base et la caisse de stabilisation au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 26,
+    "annee": 1989,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MOUAFO David",
+    "titre": "L'inflation au Cameroun : détermination des principales composantes",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 27,
+    "annee": 1989,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MPAKA EBUN'BE A LUNG",
+    "titre": "Impact socio-économique du secteur non structure en Afrique noire",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 28,
+    "annee": 1989,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "SEGUE Roger",
+    "titre": "Enquête sur le niveau de vie, les choix et les aspirations profesionnelles des étudiants de l'université de Yaounde : Note méthodologique",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 29,
+    "annee": 1989,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "TANGARA GUEDIOUMA",
+    "titre": "La riziculture de l'Office du Niger au Mali",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 30,
+    "annee": 1989,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "TCHAMANDE Pierre",
+    "titre": "Développement de la pêche industrielle au Cameroun : problématique et perspective",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 31,
+    "annee": 1989,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "TEDJIONANG Etienne",
+    "titre": "Le secteur touristique et sa contribution au développement économique et social : cas du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 32,
+    "annee": 1990,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "ADO MAMAN Laouali",
+    "titre": "Les projets de développement agricole et la production agricole : cas de la région de Maradi au Niger",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 33,
+    "annee": 1990,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "BAGNOLAK Joseph Marie Désiré",
+    "titre": "Etude comparée des conditions de logement dans les villes de Yaoundé et de Douala",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 34,
+    "annee": 1990,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Bernabé OKOUDA",
+    "titre": "Prix internationaux des produits de base et développement",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 35,
+    "annee": 1990,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "CAMARA KAROUNGA",
+    "titre": "Les mécanismes de gestion de la dette des pays africains au sud du Sahara",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 36,
+    "annee": 1990,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "FOBASSO Jean",
+    "titre": "Problématique du développement de l'industrie camerounaise des assurances",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 37,
+    "annee": 1990,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Fred MOUYENDI",
+    "titre": "Promouvoir le secteur industrie de transformation pour préparer l'après-pétrole au Gabon",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 38,
+    "annee": 1990,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "KAMGA TCHWAKET Ignace Roger",
+    "titre": "Essai d'analyse économique du secteur touristique : le cas du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 39,
+    "annee": 1990,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "KAMGNO Hélène",
+    "titre": "Les institutions de la protection sociale et la mobilisation de l'épargne au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 40,
+    "annee": 1990,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MBAYNOUDJIM PERKYSS",
+    "titre": "Essai d'analyse des effets socio-économiques de l'agence centrafricaine de développement de l'Ourham-Pende (1979-1989)",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 41,
+    "annee": 1990,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MOUASSIE MEFIRE Guillaume",
+    "titre": "Analyse de l'évolution de la structure du budget camerounais",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 42,
+    "annee": 1990,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "NDZIE Florent Patrice",
+    "titre": "Incidence de l'augmentation des taux d'écolage sur les décisions familiales de scolarisation : cas de la ville de Yaoundé",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 43,
+    "annee": 1990,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "NJEKOU née NDJONKAM Rosalie",
+    "titre": "L'Afrique subsaharienne et les programmes de stabilisation",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 44,
+    "annee": 1990,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "NZONZA Jérome",
+    "titre": "Etude des conséquences économiques de l'industrie sucrière au Congo",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 45,
+    "annee": 1990,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "POUEDOGO",
+    "titre": "UDEAC : unmodèle d'intégration économique et sociale de l'Afrique centrale (évolution, problèmes et perspectives d'avenir)",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 46,
+    "annee": 1991,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Dieudonné ALEREKIE ANDZANG",
+    "titre": "La composition des échanges intra-communautaires en UDEAC : le cas du commerce entre le Gabon et la Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 47,
+    "annee": 1991,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "DOKOSSI NOZIKOUM Marie-Laure",
+    "titre": "La contribution des exportations dans l'économie centrafricaine",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 48,
+    "annee": 1991,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Ferdinand Samuel KOUMKWA",
+    "titre": "Essai de réexamen des programmes d'ajustement structurel en Afrique subsaharienne : le cas particulier de la République centrafricaine",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 49,
+    "annee": 1991,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Gaston ELOUNDOU ESSOMBA",
+    "titre": "Analyse structurelle du salaire au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 50,
+    "annee": 1991,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Germain MESSANGA",
+    "titre": "Nature des échanges commerciaux entre le Cameroun et les Etats membres de l'UDEAC",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 51,
+    "annee": 1991,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Idrissa Minamba DOUMBIA",
+    "titre": "Le système Stabex de la convention de Lomé et son application au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 52,
+    "annee": 1991,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Jean Christophe AWONO",
+    "titre": "Incidence du système de protection tarifaire et non tarifaire sur la structure industrielle du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 53,
+    "annee": 1991,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Joseph MPOULI MPOULI",
+    "titre": "La demande de monnaie du Cameroun : analyse éconmétrique",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 54,
+    "annee": 1991,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MAKEK Félix",
+    "titre": "La rentabilité d'une boulangerie dans la ville de Yaoundé",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 55,
+    "annee": 1991,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MBAITOLOUM Roger",
+    "titre": "La contribution de l'élevage bovin à l'économie centrafricaine",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 56,
+    "annee": 1991,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MBO Théophile",
+    "titre": "La production héveicole et la reduction des coûts de production du cahoutchouc naturel au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 57,
+    "annee": 1991,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MBOUEMBOUE MAKOUET Evelyne",
+    "titre": "Enquête sur l'artisanat artistique Bamoun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 58,
+    "annee": 1991,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "NDJOMO Sébastien",
+    "titre": "Crise économique et baisse des effectifs dans l'enseignement privé catholique au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 59,
+    "annee": 1991,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "NGOUDE NDIADOUM",
+    "titre": "Le processus d'industrialisation dans l'UDEAC",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 60,
+    "annee": 1991,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "NKODIA Guillaume",
+    "titre": "Le cacao : mécanisme de la fixation de ses prix mondiaux et essai d'analyse de la sa production au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 61,
+    "annee": 1991,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Service NDOMBA Grégoire",
+    "titre": "Incidence des aléas naturels sur le développement agricole : cas de la SODELAC au Tchad",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 62,
+    "annee": 1992,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "BAH OUMAR",
+    "titre": "Conception et implémentation d'un logiciel de création de tableaux croisés sous dBase, à partir d'un fichier ou d'une Base de données, pour l'exploitation d'enquêtes statistiques",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 63,
+    "annee": 1992,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "BALETE Jean-Paul",
+    "titre": "Incidence socio-économique de la société centrafricaine de développement agricole (SOCADA) en République Centrafricaine",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 64,
+    "annee": 1992,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Ernest MIZEDIO",
+    "titre": "Essai d'analyse des effets des politiques d'emploi sur le chômage en RCA",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 65,
+    "annee": 1992,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "GUY MBOYMA",
+    "titre": "Urbanisation et marché de logement à Bangui",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 66,
+    "annee": 1992,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Jean-Marie KINTEKOTO",
+    "titre": "Indice du système de tarification du port maritime de Pointe-Noire (PPN) sur l'allocation des ressources au Congo",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 67,
+    "annee": 1992,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MBA Martin",
+    "titre": "Etude statistique des facteurs de mobilité de la main d'œuvre au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 68,
+    "annee": 1992,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MIAGHE Marie Claire",
+    "titre": "Importance du commerce extérieur dans l'économie gabonaise",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 69,
+    "annee": 1992,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "NDINGA Adolphe",
+    "titre": "La production mondiale du café : analyse des facteurs déterminants",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 70,
+    "annee": 1992,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "OBOURA Jonas",
+    "titre": "Apport du secteur informel dans le développement de l'Afrique subsaharienne",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 71,
+    "annee": 1992,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "SOULEINGAR Ndokedi Edmond",
+    "titre": "Essai d'analyse socio-économique de la situation agro-alimentaire en Afrique subsaharienne",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 72,
+    "annee": 1992,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "TIABA Antoine Roland",
+    "titre": "Proposition d'une stratégie de développement des transports ferroviaires au Congo",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 73,
+    "annee": 1993,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "BAH MAHAMADOU Dian",
+    "titre": "Les déterminants de l'investissemet privé en Afrique subsaharienne",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 74,
+    "annee": 1993,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "BEBE Emile Urbain",
+    "titre": "Necessité et importance de l'entretien des routes en Afrique subsaharienne exemple de la RCA",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 75,
+    "annee": 1993,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Jean Pierre GBASSOUROU",
+    "titre": "Analyse économique du secteur industriel centrafricain",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 76,
+    "annee": 1993,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "KINGA MOUKAKOUNOU Jean Ruffin",
+    "titre": "Définition de l'indigène et son incidence sur la gestion financière à l'hôpital central de Yaoundé",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 77,
+    "annee": 1993,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MAKOUALA Alain Patrick",
+    "titre": "Commerce extérieur et produits d'échange de la zone BEAC",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 78,
+    "annee": 1993,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MIMBOURI Martin Parfait",
+    "titre": "Production et commercialisation de la banane d'exportation : cas du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 79,
+    "annee": 1993,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "NGOUMTSA Arphonce",
+    "titre": "Le marché de l'assurance dans l'écobomie camerounaise",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 80,
+    "annee": 1993,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "NKOU Jean Pascal",
+    "titre": "L'APD et la croissance économique au Cameroun : cas de la coopération technique",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 81,
+    "annee": 1993,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "POUFON Hamidou",
+    "titre": "Influence de la taxation sur le commerce extérieur du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 82,
+    "annee": 1993,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Roger YELE",
+    "titre": "L'épargne rurale : une dimension sous estimée d'autofinancement en milieu rural, le cas de la RCA",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 83,
+    "annee": 1993,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Sylvain EBENGUE",
+    "titre": "L'impact de la dévaluation du Franc CFA sur les économies des pays de la zone Franc",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 84,
+    "annee": 1993,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "TCHICAYAT NOMBO Paul Christian",
+    "titre": "La balance de paiement est-elle un instrument de la régulation monétaire ? Cas du Congo (1980-1991)",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 85,
+    "annee": 1993,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "TSIOBA Alain de Tsioba",
+    "titre": "Le développement des cultures vivrières : une nécessité pour préparer l'après-pétrole au Gabon",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 86,
+    "annee": 1993,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Victor MBEMBA",
+    "titre": "Recherche d'adéquation entre le secteur productif et le secteur financier : cas du Congo",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 87,
+    "annee": 1995,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "AFE Jean",
+    "titre": "Essai d'évaluation du coût social des accidents de la circulation routière au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 88,
+    "annee": 1995,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Agnan Simplice MAYEMBO",
+    "titre": "Contraintes et insuffisances de la politique monétaire de la banque des Etats de l'Afrique centrale",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 89,
+    "annee": 1995,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Alain Valentin MADAS",
+    "titre": "L'emploi rural : cas de la république centrafricaine",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 90,
+    "annee": 1995,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Alphonse BALOU",
+    "titre": "Analyse et stratégie de développement du secteur informel urbain de Yaoundé",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 91,
+    "annee": 1995,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Georges NANDA",
+    "titre": "Modélisation macroéconomique dans les pays en voie de développement : cas du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 92,
+    "annee": 1995,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "KESSY Omer",
+    "titre": "L'Union Douanière et Economique de l'Afrique Centrale pour une intégration véritable et effective des économies de la sous-région",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 93,
+    "annee": 1995,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MANI Marcel Joseph Aubin",
+    "titre": "Stratégie de restructuration et de perfectionnement du péage routier camerounais",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 94,
+    "annee": 1995,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Maxime Nicaise GONDA NGBALET",
+    "titre": "Pauvreté et marché du travail urbain : le cas de Bangui",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 95,
+    "annee": 1995,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "OBATE ELA Antoine",
+    "titre": "Les problèmes sociaux des jeunes de l'extrême-nord du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 96,
+    "annee": 1995,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "OMGBA Patrice",
+    "titre": "Incidence de la crise économique sur le projet de carte scolaire du Cameroun : cas de l'enseignement primaire dans la province de l'Amadoua",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 97,
+    "annee": 1995,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Philippe NGOMA",
+    "titre": "Incidences et coûts sociaux des politiques d'ajustement et de relance en Afrique : cas du Congo",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 98,
+    "annee": 1995,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "YEMENE Samuel",
+    "titre": "Impact socio-économique du secteur informel urbain de Yaoundé",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 99,
+    "annee": 1996,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Abraham NKODIA",
+    "titre": "Relations entre la branche \"transports, entrepôts et communications et les autres branches de l'économie camerounaise",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 100,
+    "annee": 1996,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Bruno LEGNANGA",
+    "titre": "Compétitivité des entreprises industrielles en UDEAC : cas des firmes de cigarettes et de peintures",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 101,
+    "annee": 1996,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "DJOUFACK Yves Martin",
+    "titre": "Exploitation et analyse des enquêtes annuelles sur l'industrie camerounaise (1988 -1993)",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 102,
+    "annee": 1996,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Euloge gervais NGOUDJOU TCHOUTAN",
+    "titre": "Exploitation et analyse des enquêtes annuelles sur l'industrie camerounaise",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 103,
+    "annee": 1996,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Gaspard NGAHZI",
+    "titre": "Les effets de la dévaluation du FCFA sur l'approvisionnement et la distribution des produits pharmaceutiqus : cas de la ville de Yaoundé",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 104,
+    "annee": 1996,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Guillaume Thierry SIEWE",
+    "titre": "Exploitation et analyse des enquêtes annuelles sur l'industrie camerounaise (1988 -1993)",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 105,
+    "annee": 1996,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "HAMADOU Abdoulaye",
+    "titre": "Le processus de transport économique :  cas du secteur industriel",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 106,
+    "annee": 1996,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "KOULET VICKOT Aubin Aimery",
+    "titre": "Le processus de transport économique au Cameroun :  cas du secteur industriel",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 107,
+    "annee": 1996,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "KOUMTINGUE GNAYAM",
+    "titre": "Compétitivité des entreprises industrielles en UDEAC : le cas spécifique des entreprises tchadiennes",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 108,
+    "annee": 1996,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "LOWE Jean Pierre",
+    "titre": "La mesure du coût de l'intermédiation financière : cas particulier de la BEAC",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 109,
+    "annee": 1996,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "NGAKOUMDA Gabriel",
+    "titre": "Stratégies familiales de financement de l'éducation comparaison ville-campagne : cas de Yaoundé (ville), Leékié (campagne)",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 110,
+    "annee": 1996,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "ZIBI ATANGANA Jean Florian",
+    "titre": "Compétitivité des entreprises industrielles en UDEAC facteurs explicatifs : cas des entreprises des matières plastiques et d'aluminium",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 111,
+    "annee": 1997,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "ABE ENGALI Armand",
+    "titre": "Analyse de l'évolution de l'indice des prix à la consommation finale des ménages dans la ville de Yaoundé entre 1978 et 1996",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 112,
+    "annee": 1997,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Didier NGANAWARA",
+    "titre": "La titrisation comme solution au problème de la dette intérieure de l'Etat",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 113,
+    "annee": 1997,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "DJONGA Colbert",
+    "titre": "Etude statistique et analytique des données de l'exploitation hotelière au Cameroun de 1984 à 1995 : cas des provinces septentrionales",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 114,
+    "annee": 1997,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Gervais Francis BITSI",
+    "titre": "L'impact de la dette extérieure sur la croissance économique des pays de l'UDEAC : cas du Congo",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 115,
+    "annee": 1997,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Hyppolyte METE",
+    "titre": "Effets des mécanismes restrictifs de la politique monétaire sur les différents secteurs de l'économie de la zone BEAC",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 116,
+    "annee": 1997,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Jean Paul PIKA",
+    "titre": "Analyse d'enquêtes sur les steatégies de financement de l'éducation des enfants : cas du sexe de l'enfant",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 117,
+    "annee": 1997,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "KAMDEM TEHAM Gilles Raoul",
+    "titre": "Analyse de l'évolution de l'indice des prix de détails à la consommation finale des ménages entre 1978 et 1996",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 118,
+    "annee": 1997,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "KIMBATSA Guy Arsène Bienvenu",
+    "titre": "Analyse des mécanismes restrictifs de la politique monétaire au sein de la BEAC",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 119,
+    "annee": 1997,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MAHINGUE Aimé Blaise",
+    "titre": "Evolution des prix à la consommation des ménages à Yaoundé : tentative d'agrégation des deux indices de prix",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 120,
+    "annee": 1997,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MANGOULBI Eliane Constance",
+    "titre": "Etude du système de protection tarifaire et non tarifaire au Cameroun à partir de 1989",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 121,
+    "annee": 1997,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MOHAMADOU Aminou",
+    "titre": "Analyse de l'impact de la libéralisation commerciale sur les performances macro-économiques du Cameroun approche descriptive",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 122,
+    "annee": 1997,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MOUAFO KOUNGUE Vienvenu",
+    "titre": "Esquisse de spécification du modèle ISLM dans le cas de l'économie camerounaise",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 123,
+    "annee": 1997,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MVONDO EKANGA TOBIE",
+    "titre": "Libéralisation commerciale et performance du secteur industriel en UDEAC : le cas du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 124,
+    "annee": 1997,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "NGUEFACK TSAGUE",
+    "titre": "Approche conceptuelle et reconsidération des objectifs de la politique monétaire : cas de la banque des Etats de l'Afrique Centrale (BEAC)",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 125,
+    "annee": 1997,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "NKAKE Edinguele Zacharie",
+    "titre": "Création et fonctionnement du marché des titres",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 126,
+    "annee": 1997,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "TCHAKOTE NOUMBISSI Du Prince, TCHONLAFI KAMSEU Clotaire & TSIMPO NKENGNE Clarence",
+    "titre": "Structures et trajectoires des entreprises du secteur industriel camerounais face aux difficultés économiques (de 1989/90 à 1994/95)",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 127,
+    "annee": 1997,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "TCHIEKOU Emmanuel",
+    "titre": "Libéralisation commerciale et performance macro-économique au Cameroun : une analyse économétrique",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 128,
+    "annee": 1998,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Alexandre NDOUMOU",
+    "titre": "Les techniques statistiques comme outils de détermination des stratégies commerciales : cas du Marché de la Bière",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 129,
+    "annee": 1998,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Aurélien Evariste BABINGUI",
+    "titre": "Politique du libre échange et performances économiques des pays de l'UDEAC : vers une intégration régionale",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 130,
+    "annee": 1998,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Benoit NGAYOU",
+    "titre": "Croissance démographique et développement des infrastructures scolaires : une contribution à l'amélioration des condition d'études cas de la République du Congo",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 131,
+    "annee": 1998,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Ernest Sylvain MOUYEDI",
+    "titre": "Politique du libre-échange et performances économiques des pays de la CEMAC : une étude des conditions monétaires",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 132,
+    "annee": 1998,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "FANYI KEMAMY Felix Aubry",
+    "titre": "La compétitivité exportatrice du secteur manufacturier camerounais au sein de l'UDEAC",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 133,
+    "annee": 1998,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "KARIM EBE",
+    "titre": "Essai d'analyse des causes de la sous-scolarisation au Tchad",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 134,
+    "annee": 1998,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Lazare LEMBION-LEGANGUI",
+    "titre": "Compétitivité-concurrence des entreprises industrielles dans l'UDEAC",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 135,
+    "annee": 1998,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MAKEMBE Nicolas",
+    "titre": "Les petites et moyennes entreprises dans la nouvelle stratégie de développement économique et social du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 136,
+    "annee": 1998,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "NZINGOULA MOUANGA André",
+    "titre": "Politique du libre-échange et performances économiques des pays de l'UDEAC :  vers une spécialisation",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 137,
+    "annee": 1998,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Patrice NOLACK LAPA",
+    "titre": "Analyse des effets de la dévaluation du Franc CFA sur la compétitivité des PME du secteur manufacturier",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 138,
+    "annee": 1998,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "PEGOUE Achille",
+    "titre": "Analyse critique des comptes nationaux du Cameroun de 1959 à 1993",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 139,
+    "annee": 1998,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "TALLA Jacques",
+    "titre": "Problèmes de banquereoute dans les entreprises et les organisations : partage de l'Etat des disponibilités financières",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 140,
+    "annee": 1999,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "BOUNKEU TCHOUPOU Damien",
+    "titre": "Le secteur informel dans l'économie camerounaise",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 141,
+    "annee": 1999,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Edith Strafort PEDIE",
+    "titre": "Aspects conceptuels et création d'un marché financier en zone CEMAC",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 142,
+    "annee": 1999,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Gilbert NJOUMEGNE",
+    "titre": "Analyse des effets de la dévaluation du Franc CFA sur les finances publiques du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 143,
+    "annee": 1999,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "JAZT KENGAP Eric",
+    "titre": "La gestion des stocks de biens périssables : cas du centre Camlait de Yaoundé",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 144,
+    "annee": 1999,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "KOUAGHU TCHUISSEU Eric R.",
+    "titre": "Appréciation des politiques de lutte contre la pauvreté au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 145,
+    "annee": 1999,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MINLEND NOUMA Didier Maurice",
+    "titre": "Poilitique monétaire de la BEAC avec l'avenement de l'euro",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 146,
+    "annee": 1999,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MVOGO ABOMO Armand Théodore",
+    "titre": "Financement de la santé au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 147,
+    "annee": 1999,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "NGASSA Laurent",
+    "titre": "La promotion de l'investissement pour le développement du secteur privé camerounais",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 148,
+    "annee": 1999,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "NGHOGUE VOUFO Léonel Erith",
+    "titre": "Endettement extérieur et développement économique : le cas du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 149,
+    "annee": 1999,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "NJIKE NJIKAM Gilles Bertrand",
+    "titre": "Les déterminants de l'emploi dans le secteur privé moderne camerounais",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 150,
+    "annee": 1999,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "NLOZEH Alphonse",
+    "titre": "Importance de la filière bois dans le développement économique du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 151,
+    "annee": 1999,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "POKEM TCHEKOULONG Eric",
+    "titre": "Restructuration bancaire et mobilisation de l'épargne au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 152,
+    "annee": 1999,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "TENIKUE Michel",
+    "titre": "Analyse des recours therapeuriques au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 153,
+    "annee": 2000,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "BOADE Georges",
+    "titre": "Commerce extérieur et croissance économique au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 154,
+    "annee": 2000,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "FOTUE FENYOM Le Prince Justin",
+    "titre": "La contribution des transports routiers aux finances publiques camerounaises",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 155,
+    "annee": 2000,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Joseph Junior EBOGO",
+    "titre": "Conséquences socio-économiques de la croissance démographique de la ville de Yaoundé",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 156,
+    "annee": 2000,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "KOUETCHEU DASSI Guy",
+    "titre": "Etude de la compétitivité du secteur industriel et manufacturier du Cameroun face à la concurrence du Nigeria",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 157,
+    "annee": 2000,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MALELA FILA Tony Kehl",
+    "titre": "Restructuration du système bancaire dans les pays de la CEMAC : cas du Congo",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 158,
+    "annee": 2000,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MASSAMBA Christophe",
+    "titre": "Les investissements directs étrangers et la croissance du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 159,
+    "annee": 2000,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "SILATSA JIOTIO Réné Narcisse",
+    "titre": "Essai de mise en place des comptes satellites de l'éducation au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 160,
+    "annee": 2001,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "ABDAL-AZIZ Housseini",
+    "titre": "Analyse de la surveillance multilatérale au sein de la CEMAC",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 161,
+    "annee": 2001,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Alice Rosine WADO KENNE",
+    "titre": "Impact de l'éducation de la femme sur le développement socio-économique du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 162,
+    "annee": 2001,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Berlin LELE TAGNE",
+    "titre": "Libéralisation et comportement des acteurs économiques dans la filière café : cas du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 163,
+    "annee": 2001,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Christophe TATSINKOU",
+    "titre": "Enseignement technique et profrssionnel en alternance : sa faisabilité et son apport pour une révolution des systèmes éducatifs en Afrique centrale  : cas du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 164,
+    "annee": 2001,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "KENMEGNE KAM Jean Réné",
+    "titre": "Ajustement structurel et réaction de l'offre agricole : cas du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 165,
+    "annee": 2001,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "LONKENG NGOUANA Constant Aimé",
+    "titre": "Les déterminants du commerce extérieur du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 166,
+    "annee": 2001,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "LONTCHI TCHOFFO Roland Marc",
+    "titre": "Analyse input-output appliquée à l'économie camerounaise",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 167,
+    "annee": 2001,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MAO TAKONGMO Charles Olivier",
+    "titre": "Le financement du secteur agricole en période de crise et d'ajustement structurel",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 168,
+    "annee": 2001,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "METANGMO Janvier",
+    "titre": "Dépenses publiques et développement économique : cas de cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 169,
+    "annee": 2001,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MOUANDA Louis-Bernard",
+    "titre": "Etude critique du système des statistiques des prix du Gabon : cas des prix à la consommation des ménages",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 170,
+    "annee": 2001,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MOUGA Amisobel",
+    "titre": "Influence des médias sur les habitudes culturelles et socioprofessionnelles des habitants de Yaoundé",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 171,
+    "annee": 2001,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "NANTCHOUANG DJIOKOUE Azer",
+    "titre": "Les particularités du chomage des jeunes au Cameroun : cas de la ville de Yaoundé",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 172,
+    "annee": 2001,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "NDEFFO GOUOPE Guy Ferdinand",
+    "titre": "Investissement et développement économique au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 173,
+    "annee": 2001,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "NKABKOB LONDJOU Thio'mi",
+    "titre": "Intégration des stratégies individuelles et familiales dans les politiques de lutte contre la pauvreté en milieu urbain : cas de la ville de Yaoundé Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 174,
+    "annee": 2001,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "NOAH NDELA NTSAMA Jean Frédéric",
+    "titre": "L'offre de monnaie et le financement des économies de la CEMAC",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 175,
+    "annee": 2001,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "TALOM KAMGA Alain Magloire",
+    "titre": "Diagnostic du sous secteur agricole d'exportation en période de libéralisation : cas du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 176,
+    "annee": 2001,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "TCHOMTHE Sévérin",
+    "titre": "Essai d'élaboration d'indicateurs et d'analyse des politiques actuelles",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 177,
+    "annee": 2005,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "ABANDA Joseph",
+    "titre": "Environnement macroéconomique et offre des cultures pérennes au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 178,
+    "annee": 2005,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "ANGANDEH BOBOMBO Pauline Félicité",
+    "titre": "Microfinance et lutte contre la pauvreté : cas du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 179,
+    "annee": 2005,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Elie Chanson NJOUMENE",
+    "titre": "Déterminants des perfomances scolaires au sortir du premier cycle de l'enseignement secondaire général : cas de la ville de Yaoundé",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 180,
+    "annee": 2005,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "FATA Rouane",
+    "titre": "Politiques d'ajustement structurel et réaction du secteur agricole : cas du Tchad",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 181,
+    "annee": 2005,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "FONKOU Alex Stéphane",
+    "titre": "Fiscalité des entreprises et croissance économique : cas du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 182,
+    "annee": 2005,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "FOTSING TCHIDA Armel",
+    "titre": "Finance sémi formelle et financement des entreprises au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 183,
+    "annee": 2005,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Jean François TOMO EYENE",
+    "titre": "Marché du travail et chomage en milieu urbain de Gabon : cas de Libreville",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 184,
+    "annee": 2005,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Jean Marie Vianney NYABYENDA",
+    "titre": "Gestion du taux de change et performance économique au Rwanda",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 185,
+    "annee": 2005,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Max KAMGUE",
+    "titre": "Les déterminants de la productivité des unités de production informelles du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 186,
+    "annee": 2005,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MBOUNGOU MBIKA Eric Marcellin",
+    "titre": "Analyse comparative des performances des bourses de valeurs mobilières africaines",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 187,
+    "annee": 2005,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "NDJODO SANDJO Nino Alfredo",
+    "titre": "Influence de la taxation sur le commerce extérieur du Cameroun de 1990 à 2003",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 188,
+    "annee": 2005,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "NGUIMDO VOUFO Nadine Angèle",
+    "titre": "Les déterminants du sous emploi des jeunes en milieu urbain : cas de la ville de Yaoundé",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 189,
+    "annee": 2005,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "PANDONG Armand",
+    "titre": "Le système bancaire de la CEMAC",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 190,
+    "annee": 2005,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "TAANNBA PABAME",
+    "titre": "Cadre de vie et analyse des performances académiques des tchadiens de la diaspora : cas du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 191,
+    "annee": 2006,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Alain Simplice AZEUFOUET",
+    "titre": "Impact du commerce préférentiel sur les performances économiques du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 192,
+    "annee": 2006,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Edouard TSAGUE DJEUTEM",
+    "titre": "Impact des négociations commerciales sur l'accès au marché des produits non agricoles : cas du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 193,
+    "annee": 2006,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Francis Yannick ZAMBO ZAMBO",
+    "titre": "Impact de l'arrimage du ranc CFA à l'euro sur la balance commerciale : le cas du cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 194,
+    "annee": 2006,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Jean Christian KOUONTCHOU MIMBE",
+    "titre": "Evaluation des besoins de formation et d'information en matière de VIH/SIDA dans les entreprises au Cameroun : cas des établissements hôteliers de la ville de Yaoundé",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 195,
+    "annee": 2006,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Lauris Gaëlle MOUNGUENGUI",
+    "titre": "Stabilité de la vitesse de circulation de la monnaie : cas du Gabon",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 196,
+    "annee": 2006,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MADJIOUDAL Allarabaye",
+    "titre": "Corruption au Cameroun : Développement et étude de cas dans le domaine du transport urbain : cas des taximen",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 197,
+    "annee": 2006,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MATCHA KANA Doriane",
+    "titre": "Modélisation de la défaillance du système bancaire de la CEMAC",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 198,
+    "annee": 2006,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MVE ONA Ulrick Lilyan",
+    "titre": "La consommation d'alcool en milieu scolaire : cas de la ville de Yaoundé",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 199,
+    "annee": 2006,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "NANA TCHITCHUI Christelle",
+    "titre": "Santé et pauvrété au Cameroun : étude du comportement sanitaire",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 200,
+    "annee": 2006,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "OUAKA BEDANG Max Arnold",
+    "titre": "Exploitation forestière et sa contribution à l'économie Camerounaise",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 201,
+    "annee": 2006,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Patrick Félicien MAMBOU",
+    "titre": "Stratégies d'insertion professionnelle des jeunes : le cas de la ville de Yaoundé",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 202,
+    "annee": 2006,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Sébastien DJIENOUASSI",
+    "titre": "Conditions de vie des ménages et offre du travail des enfants au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 203,
+    "annee": 2006,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "SIKUBE TAKAMGNO Célestin",
+    "titre": "Etude de l'impact des CLLS dans la lutte contre le SIDA au Cameroun : cas de l'arrondissement de Yaoundé V",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 204,
+    "annee": 2006,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Sylvain DEFO WAFO",
+    "titre": "Efficacité technique de l'activité de production des produits vivriers vendus à Yaoundé et Douala",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 205,
+    "annee": 2007,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "AHMAT Abderahim Abbo",
+    "titre": "Politiques de logement des ménages dans la ville de Yaoundé",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 206,
+    "annee": 2007,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Béridabaye NDILFODJE",
+    "titre": "Appréciation de la qualité des services de l'éducation : cas du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 207,
+    "annee": 2007,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "BIKORO ANGO Erick Axel",
+    "titre": "Etude diagnostique des ressources de la croissance économique au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 208,
+    "annee": 2007,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Blaise EHOWE NGUEM",
+    "titre": "Impact des accords de partenariat économique UE-Afrique centrale sur le secteur agricole du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 209,
+    "annee": 2007,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Emmanuel SIMO FOSSO",
+    "titre": "Formation et insertion professionnelle des jeunes camerounais : cas de la ville de Yaoundé",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 210,
+    "annee": 2007,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Eric Maturin NKAMGNIA",
+    "titre": "Impact d'un accord de partenariat économique entre l'Union Européenne et les Etats de la CEMAC plus Sao Tomé et Principe plus RDC sur l'économie camerounaise : cas du secteur industriel",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 211,
+    "annee": 2007,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "GUEMO KITIO Claudin Ford",
+    "titre": "Caractéristiques et déterminants de l'emploi des jeunes diplômés dans le secteur informel au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 212,
+    "annee": 2007,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Guy Paulin TEKOMBONG",
+    "titre": "Analyse des critères de surveillance multilatérale de la zone CEMAC",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 213,
+    "annee": 2007,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "KODINDOUMA Rogangoum Hervé",
+    "titre": "Soins préventifs et mortalité des enfants en milieu rural au Tchad",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 214,
+    "annee": 2007,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "KWAYEP DIMOU Leonnel",
+    "titre": "Mesure de l'efficacité technique des banques commerciales de la CEMAC",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 215,
+    "annee": 2007,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MANTOBAYE MOUNDIGBAYE",
+    "titre": "La consommation d'alcool en milieu scolaire_II: cas de la ville de Yaoundé",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 216,
+    "annee": 2007,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "NDAPOU Chadeney",
+    "titre": "L'impact du tourisme sur les économies d'Afrique subsaharienne : cas du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 217,
+    "annee": 2007,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "NDEKOUONG KANO Franck",
+    "titre": "Approche multi-niveaux de mesure des inégalités de genre sur le marché du travail : cas du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 218,
+    "annee": 2007,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "NGOUA ASSENG Adrien",
+    "titre": "Accès aux soins de santé dans les formations sanitaires au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 219,
+    "annee": 2007,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "NZEUYANG NZOUCKIO Carine Flore",
+    "titre": "Prévision à court terme des agrégats monétaires en zone CEMAC : cas du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 220,
+    "annee": 2007,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "OUAMBA TAGNE Alain Rody",
+    "titre": "Les systèmes productifs informels au Cameroun : segmentation et efficacité économique",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 221,
+    "annee": 2007,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Salomon Hermann MAMONGO EBABONG",
+    "titre": "Filière bois et coissance économique au Gabon",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 222,
+    "annee": 2007,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "ANDRIATSITOAINA Arison Rivo",
+    "titre": "Le secteur informel au Cameroun : accès au crédit",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 223,
+    "annee": 2007,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "Bobda Chatchueng Jean Christophe",
+    "titre": "Prévoir l'inflation au Cameroun : une approche macro sectorielle",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 224,
+    "annee": 2007,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "DIALLO Mamadou Sarifou Diao",
+    "titre": "Contribution à l'élaboration d'un indice de développement statistique des pays africains",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 225,
+    "annee": 2007,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "Isabelle NIRNA",
+    "titre": "Essai d'évaluation des besoins d'aide alimentaire par un modèle multi-marché : cas du Niger",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 226,
+    "annee": 2007,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "LONANG TCHATHOUANG Serge Alain",
+    "titre": "Matrice de comptabilité sociale au Cameroun, et évaluation de l'impact d'une politique fiscale sur la pauvrété",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 227,
+    "annee": 2007,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "MAO TAKONGMO Charles Olivier",
+    "titre": "Croissance, inégalité et pauvreté au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 228,
+    "annee": 2007,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "MEKA MEBENGA Martin",
+    "titre": "Analyse comparative des déterminants de la croissance économique au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 229,
+    "annee": 2007,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "MEKIA Félicité Linda",
+    "titre": "Décomposition du PIB en positions élémentaires dans le cadre du programme de comparaison internationale : cas du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 230,
+    "annee": 2007,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "Merveille Estelle KENFACK",
+    "titre": "Les effets des inégalités de revenu sur la croissance économique : cas de l'Afrique subsaharienne",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 231,
+    "annee": 2007,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "NDAMBENDIA Houdou",
+    "titre": "Un essai d'explication à la surliquidité les banques par les canaux de transmission de la poilitique monétaire au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 232,
+    "annee": 2007,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "NGOMEGNI DJIOMOU Aude Laura",
+    "titre": "L'impact de la dynamique des termes de l'échange sur la croissance économique des pays de l'Afrique Centrale",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 233,
+    "annee": 2007,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "NGOUANA KOUDJOU",
+    "titre": "Dépenses publiques et croissance : une étude économétrique sur une série temporelles au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 234,
+    "annee": 2007,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "NGWA EDIELLE Thierry Hervé Jackson",
+    "titre": "Soutenabilité fiscale au Cameroun : une évaluation de la règle de politique fiscale",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 235,
+    "annee": 2007,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "NJOCK Absalon Didier",
+    "titre": "Analyse du financement extérieur secteur privé au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 236,
+    "annee": 2007,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "NKOU Guy Raymond",
+    "titre": "Financement des projets communaux au Cameroun : Rendement des projets et capacité de remboursement de la dette communale",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 237,
+    "annee": 2007,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "Norbert Kochikpa ASSOBA",
+    "titre": "Impact de la structure du PIB sur les parités de pouvoir d'achat : une approche par les simulations",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 238,
+    "annee": 2007,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "Patrick Kevin MZOGANG",
+    "titre": "L'offre de travail familiale au Cameroun : une approche stratégique",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 239,
+    "annee": 2007,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "SIGNE MADJOUHOU Nelly",
+    "titre": "Projection du compte du courant de la balance des paiements du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 240,
+    "annee": 2008,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "AÏGONGUE DJINGUEBAYE",
+    "titre": "Comportements à risque et séroprévalence du VIH dans les forces de défense au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 241,
+    "annee": 2008,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "André Bertrand MINE OKON",
+    "titre": "Le niveau optimal des reserves internationales : cas de la CEMAC",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 242,
+    "annee": 2008,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "DJIENGOUE Jean Florentin",
+    "titre": "Investissement public et croissance économique :  le cas du Cameroun entre 1977 et 2005",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 243,
+    "annee": 2008,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "DJOTO MBANTA Irène Danièle",
+    "titre": "Facteurs non institutionnels et émergence des PME au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 244,
+    "annee": 2008,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Eric Joël NGOUNOU N.",
+    "titre": "Efficacité de la politique monétaire de la BEAC et mécanisme de transmission : une évaluation empitique du canal du taux d'intérêt au Cameroun de 1995 à 2006",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 245,
+    "annee": 2008,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "FOTSO SIMO Serge",
+    "titre": "Rendement de l'éducation sur le marché du travail au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 246,
+    "annee": 2008,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Gaston DIKWE",
+    "titre": "Types de formation et insertion professionnelle des jeunes en milieu urbain au Cameroun : cas de la ville de Yaoundé",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 247,
+    "annee": 2008,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "GUEMALEU Guy Ronel",
+    "titre": "Capital humain, mobilité sociale et travail décent au Cameroun : une analyse économétrique",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 248,
+    "annee": 2008,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Harcel NANA TOMEN",
+    "titre": "La mouche noire et le comportement des populations : cas du bassin Nyong-Sanaga au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 249,
+    "annee": 2008,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "KENKOUO Guy Albert",
+    "titre": "Soutenabilité de la dette publique des pays post PPTE de la zone Franc",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 250,
+    "annee": 2008,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "KOUANDA DEUNGOUA Adrien",
+    "titre": "Mesure et analyse de la pauvreté monétaire chez les enfants : cas du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 251,
+    "annee": 2008,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "LEKEUMO Simplice Kitleur",
+    "titre": "Mesure et analyse de la pauvreté non monétaire chez les enfants : cas du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 252,
+    "annee": 2008,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Marius Brice KAMSU KAGO",
+    "titre": "l'inflation sous jacente au Cameroun : une modélisation à partir d'une approche VAR structurelle",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 253,
+    "annee": 2008,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MASSODA TONYE Salomon Gottlieb",
+    "titre": "Perception de la vulnérabilité au sein des orphélins et des enfants vulnérables au Cameroun : Cas de la province du Centre",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 254,
+    "annee": 2008,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Mepoubong Zeufack Bostin Patrick",
+    "titre": "Facteurs explicatifs de la surliquidité bancaire au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 255,
+    "annee": 2008,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MPOUAMOUN MFOKEU ABDOULAYE Narcisse",
+    "titre": "L'analyse comparative de l'insertion professionnelle des jeunes dans les grandes métropôles du Cameroun : le cas des villes de Yaoundé et Douala",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 256,
+    "annee": 2008,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "NGANGA KOUBEMBA Anaclet Géraud",
+    "titre": "Une approche de mesure du bien-être des enfants et de la pauvreté des ménages au Congo",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 257,
+    "annee": 2008,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "NGOUMO KUEKO ELLIOT",
+    "titre": "Développement financier et croissance économique au Cameroun : une approche par la modélisation VAR",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 258,
+    "annee": 2008,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "ROTOUDJIMAE Théophile",
+    "titre": "Analyse de l'e-commerce : essai d'application aux PME Camerounaises",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 259,
+    "annee": 2008,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Steve Bico NANA KEPYA",
+    "titre": "Performance des établissements scolaires au Cameroun : cas des établissements d'enseignements secondaire général à deux cycles",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 260,
+    "annee": 2008,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Stève Loris GUI-DIBY",
+    "titre": "Les déterminants des investissements directs étrangers en zone CEMAC",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 261,
+    "annee": 2008,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "WOGUIA KENMOGNE Roland Jules",
+    "titre": "Les déterminants du bien être subjectif des ménages au Cameroun : comparaison entre zones rurale et urbaine",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 262,
+    "annee": 2008,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "AMEGBELE Koami Dzigbodi",
+    "titre": "Harmonisation de l'indice des prix à la consommation de la CEDEAO, analyse des variations saisonnières de l'indice harmonisé des prix des produits alimentaires",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 263,
+    "annee": 2008,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "Fatimata FOFANA",
+    "titre": "Analyse des engagements de la BOAD dans le secteur agricole de l'UEMOA sur la période 1976-2008 : évolution et perspectives",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 264,
+    "annee": 2008,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "NAKELSE Pascal",
+    "titre": "Analyse des impacts des sources alternatives de financement de l'Union Africaine : cas d'un prélèvement sur les importations et sur les exportations",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 265,
+    "annee": 2008,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "NDJANA Wily Freddie",
+    "titre": "Impact des recentes mesures de politique économique au Cameroun les performances du secteur informel",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 266,
+    "annee": 2008,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "NGWESSE Roland Nzang",
+    "titre": "Mesure du degré d'nertie des prix et essai d'explication de la fréquence de changement des prix à Yaoundé",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 267,
+    "annee": 2008,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "PIEUME Calice Olivier",
+    "titre": "Analyse de la sensibilité du revenu des chefs d'UPI à la non réponse : cas des enquêtes 1-2-3 du projet PARSTAT",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 268,
+    "annee": 2008,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "TALABONG Hervé",
+    "titre": "Estimation et analyse de la fonction de demande de monnaie dans les pays de la zone CEMAC : une modélisation VAR-ECM",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 269,
+    "annee": 2008,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "TIIGRIBE Eloi",
+    "titre": "Modélisation de la dynamique des prix dans le secteur manufacturier au Cameroun : cas des industries alimentaires et des biens de construction",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 270,
+    "annee": 2008,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "TSOMBOU KINFAK Christian Cyrille",
+    "titre": "Evaluation des bénéfices liés à la mise en œuvre d'un projet communal non marchand : cas d'un projet environnemental",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 271,
+    "annee": 2008,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "TSOUNGUI BELINGA Vincent de Paul",
+    "titre": "Mesure et modélisation de l'inflation sous-jacente : une application au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 272,
+    "annee": 2008,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "Wilfried Pkédonou HOUEDOKOU",
+    "titre": "Analyse économétrique de la convergence macroéconomique dans l'Union Economique et Monétaire Ouest-Africaine (UEMOA)",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 273,
+    "annee": 2008,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "YOUSSOUF Ibn Ali",
+    "titre": "Modélisation des déterminants des investissements directs étrangers en République Djibouti",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 274,
+    "annee": 2009,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Armand IWANGOU IWANGOU",
+    "titre": "Modélisation VAR et prévisions de la consommation finale des ménages : une application au cas du Gabon",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 275,
+    "annee": 2009,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Dulcy Joyce GNINGHAYE FONGANG",
+    "titre": "Evaluation des politiques de convergence en zone CEMAC :  une approche économétrique",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 276,
+    "annee": 2009,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Emmanuel LAO",
+    "titre": "Gouvernance et croissance économique : le cas du Cameroun de 1980 à 2005",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 277,
+    "annee": 2009,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MAMBI MONGO WANGOU Monde",
+    "titre": "Analyse de la vulnérabilité de la santé de la femme : cas du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 278,
+    "annee": 2009,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "NDOKAP Ignès Carinne",
+    "titre": "Evaluation de la politique monétaire de la BEAC à travers le canal du crédit sur la sphère réelle : cas du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 279,
+    "annee": 2009,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "NYONGORO Aristide Paulin",
+    "titre": "Mariages des adolescentes et facteurs de risque associés : cas du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 280,
+    "annee": 2009,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "RAKOTOARY Bina Joad Raphaël",
+    "titre": "Capital humain et croissance économique à Madagascar",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 281,
+    "annee": 2009,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "ALIA Didier Yélognissé",
+    "titre": "Analyse des transferts entre ménages au Burkina Faso",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 282,
+    "annee": 2009,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "André-Marie TAPTUE",
+    "titre": "Déterminants et modèles de standarisation du taux d'inoculation entomologique en zones tropicales : le cas du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 283,
+    "annee": 2009,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "GUETSOP NANGUE Aurélien",
+    "titre": "Impact des mesures de politiques d'investissement et fiscales sur l'économie congolaise : une simulation en équilibre général calculable",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 284,
+    "annee": 2009,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "KENGNE KAMGA Arline",
+    "titre": "Dépenses publiques d'éducation et bien être des ménages au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 285,
+    "annee": 2009,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "KOM Yves Huster",
+    "titre": "Ouverture commerciale et croissance économique dans les pays de la CEMAC",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 286,
+    "annee": 2009,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "NDIDAÏ Martin",
+    "titre": "Analyse de la rentabilité du trafic dans le Réseau CTPhone",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 287,
+    "annee": 2009,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "NZINGOULA Gildas Crépin",
+    "titre": "Proposition d'une méthodologie d'élaboration et de projection d'une matrice emploi en comptabilité nationale",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 288,
+    "annee": 2009,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "SEKOU Nana Ariane Gaël",
+    "titre": "Evolution et sources de la croissance au Cameroun : 1960-2007",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 289,
+    "annee": 2009,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "TAFOUEDA Beaudelaire",
+    "titre": "Analyse de la formation du revenu et de la structure de dépense finale des ménages agricoles en République centrafricaine",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 290,
+    "annee": 2009,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "TAGNE TATSINKOU Joseph François",
+    "titre": "Une analyse micro-multidimensionnelle de la pauvrété non monétaire en République Centrafricaine",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 291,
+    "annee": 2009,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "TCHAKOUA DJAKEULA Herviste",
+    "titre": "Les filières porteuses du secteur informel au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 292,
+    "annee": 2010,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "ABO EKOMIE Alain Martial",
+    "titre": "Analyse et prévision de l'indice de la production industrielle : une application au cas du Gabon",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 293,
+    "annee": 2010,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Arsène ZIA KOYANGBO",
+    "titre": "Calcul de la précision des enquêtes ECAM : utilisation comparée de Boostrap et de linéarisation",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 294,
+    "annee": 2010,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "BAHOUAYILA MILONGO Chancel Bardin",
+    "titre": "Comportement sexuels à risque chez les jeunes de 15 à 24 ans au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 295,
+    "annee": 2010,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "CHOMTEU KOUAM Sorel Francine",
+    "titre": "Analyse des déterminants de la pratique contraceptive moderne chez les femmes en union au Cameroun : cas de la ville de Yaoundé",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 296,
+    "annee": 2010,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "ELOUNDOU Adolphe Freddy",
+    "titre": "Analyse et profil type de la consommation basse tension dans le secteur résidentiel de Douala et Yaoundé",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 297,
+    "annee": 2010,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "KANKEU TCHEWONPI Hyacinte",
+    "titre": "Dynamique spatio-temporelle du phytophthora Megakarya (pourriture brune) dans une plantation de cacao au Cameroun : une analyse par la modélisation géostatistique",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 298,
+    "annee": 2010,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MOUDJIKA René",
+    "titre": "Analyse des déterminants du travail des enfants de 5 à 17 ans au Cameroun en 2007",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 299,
+    "annee": 2010,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MOUKOUMBI Boris",
+    "titre": "Impact des dépenses budgétaires sur la croissance économique au Cameroun de 1981 à 2008",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 300,
+    "annee": 2010,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "NOUBARANGUE Armand",
+    "titre": "Evaluation des taux de rétention au traitement ARV et de survie 12 et 24 mois après le début de traitement de juin 2007 à juin 2009 dans les 5 CTA/UPEC des hôpitaux de la ville de Yaoundé",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 301,
+    "annee": 2010,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "TAFFO NOUMSI William",
+    "titre": "Analyse multidimensionnelle du comportement de la clientèle, modélisation du churn : cas de ringo SA",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 302,
+    "annee": 2010,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "DIALAHY Isaora Zefania",
+    "titre": "Estimation de la fonction de répartition de revenu national et analyse de convergence de revenu avec les économies de la zone SADC : cas de l'Ile Maurice",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 303,
+    "annee": 2010,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "Eric GANDAHO",
+    "titre": "Performance économique et emploi dans les pays de la CEDEA : Etude empirique sur les données de panel",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 304,
+    "annee": 2010,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "ESSOMBA NKOULOU Thaddee Ghislain",
+    "titre": "Impact macroéconomique du VIH/SIDA au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 305,
+    "annee": 2010,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "ESSONO MINTSA Fabrice",
+    "titre": "Approche méthodologique de calcul des indices des prix du commerce extérieur et cadre d'analyse des termes de l'échange du Gabon",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 306,
+    "annee": 2010,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "LALA Jean Baptiste",
+    "titre": "Les déterminants de la sous utilisation de la main d'œuvre au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 307,
+    "annee": 2010,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "LELE Calvin",
+    "titre": "Effet des investissements dans les infrastructures sur les branches d'activités porteuses de l'économie camerounaise : une analyse en termes de causalités",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 308,
+    "annee": 2010,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "NKORO Jacques Henri",
+    "titre": "Etude de l'efficience des subventions allouées aux établissements publics adminstratifs au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 309,
+    "annee": 2010,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "OUEDRAOGO Issaka",
+    "titre": "Analyse de la transmission des prix et de la réponse de l'offre des produits céréaliers au Burkina Faso",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 310,
+    "annee": 2010,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "SEGLA Komi Amétépé",
+    "titre": "Elaboration d'un modèle de prévisin des recettes et des dépenses publiques du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 311,
+    "annee": 2010,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "TAGNE FOTSO Jean Roger",
+    "titre": "Efficacité de l'aide publique au développement : cas du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 312,
+    "annee": 2010,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "Tebila NAKELSE",
+    "titre": "Mesure de la sous alimentation au Burkina Faso : une étude comparative de l'approche paramétrique et non paramétrique à partir des données de l'enquête permanente agricole",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 313,
+    "annee": 2010,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "TSACHOUNG Jean Marie",
+    "titre": "Efficience des micro-entreprises camerounaises et reduction de la pauvreté monétaire : une analyse par segmentation",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 314,
+    "annee": 2010,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "TSAKOU Georges Nazel",
+    "titre": "Estimation des manquantes et prévision d'une série temporelle : cas de l'indice de la production industrielle",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 315,
+    "annee": 2011,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Joe Sttéphane ALEME ETOUNGOU",
+    "titre": "Efficacité des dépenses en capital humain sur le développement économique du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 316,
+    "annee": 2011,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Salah Mahamane DIALLO",
+    "titre": "Profil de vulnerabilité et conditions de vie des femmes enzone de convergence des programmes de Care Mali",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 317,
+    "annee": 2011,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "AMETONOU Yaovi Florentin",
+    "titre": "Déterminants de l'insuffisance de capital dans le secteur informel : quelles leçons tirer du deuxième Recensement Général des entreprises (RGE2) au Bénin",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 318,
+    "annee": 2011,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "ANSIMB Marie Louise",
+    "titre": "Les déterminants de la non-conformité des entreprises du secteur privé en matière de paiements des cotisations sociales : cas des entreprises affiliées à la CNPS du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 319,
+    "annee": 2011,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "AYMELE GNINTEDEM Bodel",
+    "titre": "Incidence de la productivité et du taux de change effectif réel sur la compétitivité des exportations manufacturières : cas du cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 320,
+    "annee": 2011,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "BANDAOGO Idrissa",
+    "titre": "Elaboration d'une procédure de sélection et de priorisation des projets : une apllication à la banque de données des grangs projets du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 321,
+    "annee": 2011,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "COULIBALY Yacouba",
+    "titre": "Sensibilité de l'inflation à la variation des prix des produits céréaliers au Sénégal",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 322,
+    "annee": 2011,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "DONFACK TSAMO Lydie",
+    "titre": "Impact des dépenses publiques de santé sur le bien-être des bénéficiaires au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 323,
+    "annee": 2011,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "KEDAGNI Désiré",
+    "titre": "Capital humain et croissance économique au Bénin : causalité et relation de long terme",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 324,
+    "annee": 2011,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "KEMOE Laurent",
+    "titre": "Construction d'indicateurs de gouvernance et analyse  de causalité entre gouvernance et croissance économique au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 325,
+    "annee": 2011,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "KEMPA NANGUI Carolle Elisabeth",
+    "titre": "Déperdition vaccinale chez les enfants de moins de cinq ans au Cameroun : cas des vaccins à doses répétées du programme élargi de vaccination",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 326,
+    "annee": 2011,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "Kevin TIENTCHEU DJIENA",
+    "titre": "Modélisation de la demande en soin vaccinal contre la rougeole au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 327,
+    "annee": 2011,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "MBOLLO  STEVE Williams",
+    "titre": "Inflation et croissance monétaire : une analyse des pays de la zone CEMAC",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 328,
+    "annee": 2011,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "NDAPOU Chadeney",
+    "titre": "Les déterminants de la vulnérabilité au VIH/SIDA au Congo",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 329,
+    "annee": 2011,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "NGASSA NKENGNE Hermann",
+    "titre": "Tourisme et croissance économique : le cas du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 330,
+    "annee": 2011,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "NKENFACK TSOFACK Marius",
+    "titre": "Facteurs associés à l'utilisation du condom féminin par les femmes de 18 à 49 ans au Cameroun : une comparaison entre la zone prioritaire du projet UAFC et la zone hors projet",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 331,
+    "annee": 2011,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "RAKOTONDRADANY Lary Michael",
+    "titre": "Les déterminants de la scolarisation des enfants âgés de 6 à 14 ans dans les ménages de la ville d'Abidjan à partir de l'EDM 2008",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 332,
+    "annee": 2011,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "TAKEM Jean Claude",
+    "titre": "Caractérisation du travail indépendant au Cameroun : une application au Fonds National de l'Emploi (FNE)",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 333,
+    "annee": 2011,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "TANANKEM VOUFO Belmondo",
+    "titre": "Infrastructure et croissance économique au Cameroun : analyse des secteurs de l'énergie et des télécommunications",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 334,
+    "annee": 2011,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "TSANGA TSANGA Christol Théophile",
+    "titre": "Développement du secteur industriel : identification des branches industrielles porteuses et modélisation de leurs fonctions de production",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 335,
+    "annee": 2011,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "YADENZI Statnislas-Adrien",
+    "titre": "Dépenses publiques d'éducation et bien être de ses bénéficiaires au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 336,
+    "annee": 2011,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "YOKA IKOMBO John Stzphen",
+    "titre": "Lien entre marché du travail et pauvreté : une analyse comparative de quatre capitales de l'UEMOA (Bamako, Cotonou, Dakar, Ouagadougou)",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 337,
+    "annee": 2012,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "BALOSSA Chriss Sivananda",
+    "titre": "Modélisation et prévision de l'indice des prix à la consommation finale des ménages au Cameroun : cas de la ville de Yaoundé",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 338,
+    "annee": 2012,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "DONGMO KANA Vanessa",
+    "titre": "Le taux de change d'équilibre du franc CFA",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 339,
+    "annee": 2012,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "YOPA HONDJEU Roméo Donalt",
+    "titre": "Détermination d'un seuil de nuisance de la similue Simulium damnosum en zone de forêt sempervirente d'une portion de la vallée Nyong-Sanaga : cas des pièges sticky traps",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 340,
+    "annee": 2012,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "MENGUEME MENGUEME Joseph Marie",
+    "titre": "Développement de l'espace budgetaire et croissance économique au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 341,
+    "annee": 2012,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "ONANA MANGA Christian Perez",
+    "titre": "Construction d'un modèle macroéconomique de planification adapté aux économies des pays de la CEMAC : application au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 342,
+    "annee": 2012,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "TALBA PAPITE Lucienne",
+    "titre": "Effets de l'appréciation du taux de change Franc CFA / Dollar US sur l'activité économique au Cameroun : une simulation en équilibre général calulable",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 343,
+    "annee": 2012,
+    "type": "Rapport",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "DIMANCHE Allo",
+    "titre": "ANALYSE DES DETERMINANTS DES CONSULTATIONS PRENATALES AU TCHAD",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 344,
+    "annee": 2013,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "DIMANCHE Allo",
+    "titre": "Analyse spatiale de la morbidité due au paludisme dans la région du Sud-Ouest du Cameroun en 2012",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 345,
+    "annee": 2013,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Doungous MAHAMAT MALIK",
+    "titre": "Mise en place et intégration d’outils informatiques pour le renforcement de l’activité pédagogique à l’ISSEA",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 346,
+    "annee": 2013,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Robert Darlin MBA",
+    "titre": "Pauvreté et prévalence du paludisme chez les enfants de moins de 5 ans de la région du Sud-Ouest, Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 347,
+    "annee": 2013,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "Annick Yolande KWEDOM",
+    "titre": "Effet de la campagne 2011 de distribution des moustiquaires imprégnées d'insecticides à longues durées d'action sur la morbidité",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 348,
+    "annee": 2013,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "BADY EBE",
+    "titre": "Amélioration de l'outil de prévision des revenus pétroliers au Tchad",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 349,
+    "annee": 2013,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "BILONG Josué Armand",
+    "titre": "Effets des subventions agricoles sur la croissance économique au Cameroun : une analyse par les MEGC",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 350,
+    "annee": 2013,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "CHIOFO LONGFO Nasher Armand",
+    "titre": "Mise en place d'un modèle de prévision des principaux agrégats macroéconomiques à partir des enquêtes de conjoncture de GICAM",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 351,
+    "annee": 2013,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "DAGBA NDONGO Gaston Xavier",
+    "titre": "Construction d'un indice composite d'intégration économique et analyse de l'impact de l'intégration sur la croissance : le cas de l'Afrique Centrale",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 352,
+    "annee": 2013,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "FAROUH Magnim",
+    "titre": "Identification des épidémies par les modèles de point de changement",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 353,
+    "annee": 2013,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "FEZEU KEMBOU Christelle",
+    "titre": "Analyse de la polarisation du revenu au Cameroun entre 2001 et 2007",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 354,
+    "annee": 2013,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "FOTSO KENGNE Elie",
+    "titre": "Contribution au projet de mise à jour du SIPAE : amélioration des modèles de prévision des PIB des sous-secteurs agricoles du cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 355,
+    "annee": 2013,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "IBEMBA Gabin",
+    "titre": "Modélisation de la distribution spatiale des populations d'anophèles GAMBIA SL résistantes aux insecticides dans la région du Nord Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 356,
+    "annee": 2013,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "KAGHO FEUDJIO Stéphane",
+    "titre": "Marketing concurrentiel : mise en évidence de la segmentation du churn sur la ckientelle de MTNC",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 357,
+    "annee": 2013,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "KAMSEU TCHOUTAT Joseltine",
+    "titre": "Fiscalité et crossance économique au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 358,
+    "annee": 2013,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "KOUANDOU Arouna",
+    "titre": "Analyse des déterminants et de l'impact macroéconomique du crime au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 359,
+    "annee": 2013,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "KOUENE YODJOU Carine Laure",
+    "titre": "Prévision régionale de la demande d'électricité au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 360,
+    "annee": 2013,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "KOUMBIA Cyrille",
+    "titre": "Dépenses publiques et croissance au cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 361,
+    "annee": 2013,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "MOUSSANA Fleury Hybriel",
+    "titre": "Santé nutritionnelle des enfants de moins de cinq ans au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 362,
+    "annee": 2013,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "NOA NGONO NOA Yannick",
+    "titre": "Estimation d'une frontière de production et efficacité technique du réseau de distribution de MTN Cameroon",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 363,
+    "annee": 2013,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "RAHARIHERINAMBININA Violette Joelle",
+    "titre": "Production d'électricité et croissance économique : le cas de la zone CEEAC",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 364,
+    "annee": 2013,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "SIWE Guy Leonel",
+    "titre": "Evaluation des méthodes de Monte Carlo pour la simulation des courbes épidémiques",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 365,
+    "annee": 2013,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "TEGUEM TSAFACK Hermann Dumas",
+    "titre": "Marketing direct en téléphonie mobile prépayée : profils d'uttilisateurs de SMS de MTNC et ciblage d'abonnés appétents à ce produit",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 366,
+    "annee": 2013,
+    "type": "Rapport",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Chadad ARMIYAOU GAMBO",
+    "titre": "Les déterminants de l'utilisation des méthodes contraceptives chez les femmes tchadiennes",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 367,
+    "annee": 2014,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Armiyaou Gambo CHADAD",
+    "titre": "Évaluation de la qualité du système éducatif et des inégalités dans l'enseignement primaire au Congo",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 368,
+    "annee": 2014,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "DJOHOSSOU Marc Gérémie",
+    "titre": "ADOPTION DE L’INTERNET DANS LES ENTREPRISES AU CAMEROUN",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 369,
+    "annee": 2014,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Moukenet AZOUKALNÉ",
+    "titre": "Étude de la transmission du paludisme dans la région du SUD-OUEST Cameroun une approche par la morbidité",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 370,
+    "annee": 2014,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Saleh Abakar MAHAMAT GOUDJA",
+    "titre": "Analyse de la pauvreté au Congo : approche par les besoins de base à partir de l'enquête congolaise auprès de ménage (ECOM-2011)",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 371,
+    "annee": 2014,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "Abdoul Karim SIDIBE",
+    "titre": "Evaluation de la politique monétaire de la BCEAO à la une du taux d'intérêt naturel",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 372,
+    "annee": 2014,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "ALLAHISSEM Hervé",
+    "titre": "Analyse de la demande mensuelle d'énergie électrique au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 373,
+    "annee": 2014,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "ELANGA MENDOUGA Etienne Jodelle",
+    "titre": "Analyse et évaluation des déterminants de la satisfaction des bénéficiaires des services publics d'eau de la ville de Yaoundé",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 374,
+    "annee": 2014,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "FOKOU KOUSTING Hervé Narcisse",
+    "titre": "Caractéristique et conséquence du commerce illicite au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 375,
+    "annee": 2014,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "GEUMALEU Christelle Audrey",
+    "titre": "Déterminant de l'investissement des entreprises camerounaises",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 376,
+    "annee": 2014,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "MINE OKON André Bertrand",
+    "titre": "Performance de la chaine portuaire et flux commerciaux",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 377,
+    "annee": 2014,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "SILA KAMGA Hugues",
+    "titre": "Modélisation du prix de transport terrestre de marchandises sur le corridor Douala-N'djamena",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 378,
+    "annee": 2014,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "YOMBA DJEUMEN Beaudelaire",
+    "titre": "Evaluation de l'impact du programme national de développement participatif (PNDP) phase2 sur la vie dans les ménages des localités rurales au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 379,
+    "annee": 2015,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Zigobet Gilles BOPAN",
+    "titre": "Analyse des facteurs de la mortalité infanto-juvénile au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 380,
+    "annee": 2015,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "AKOUYA MOBOMA Roger Maritinien",
+    "titre": "Impact des fausses déclarations douanières sur les recettes : enjeux et mesures de politique en matière de lutte contre la fraude",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 381,
+    "annee": 2015,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "ANKI YAMBARE",
+    "titre": "Impact de l'adoption des variétés de riz NERICA sur le revenu et les dépenses alimentaires des ménages rizicoles au Cameroun : cas de la région du Nord-Ouest",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 382,
+    "annee": 2015,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "Arnaud GOTORAYE",
+    "titre": "Système LMD et perpectives professionnelles des étudiants au Cameroun : cas de la ville de Yaoundé",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 383,
+    "annee": 2015,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "BALOSSA Chriss Sivananda",
+    "titre": "Analyse de l'insécurité alimentaire en zone rurale au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 384,
+    "annee": 2015,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "DIMAI Luc Bienvenu",
+    "titre": "Evolution de la pauvreté monétaire et multidimensionnelle au Tchad (2003-2011)",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 385,
+    "annee": 2015,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "EBOUELE Joseph Armel",
+    "titre": "Lien entre courbes épidémiques et mode de transmission",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 386,
+    "annee": 2015,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "FONDJA Josseline Sylvanie",
+    "titre": "Exclusion sociale et croissance économique : cas de la zone CEEAC",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 387,
+    "annee": 2015,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "IGNALEAMOKO Jerry Fulgence",
+    "titre": "Analyse de l'influence de l'inflation sur l'économie du cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 388,
+    "annee": 2015,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "KOLOUNZA Donatien",
+    "titre": "Analyse de l'évolution de la consommation d'électricité des clients moyenne tension et la croissance économique au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 389,
+    "annee": 2015,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "MAHAMAT MALIK Dougous",
+    "titre": "Construction d'un modèle de prédiction journalier du churn des abonnés de MTN Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 390,
+    "annee": 2015,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "MBOULE EWONGA Linda Christelle",
+    "titre": "Impact de l'interdiction de la production, de la commercialisation et la distribution des emballages plastiques non biodegradables de faible épaisseur sur l'économie camerounaise à travers les entreprises",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 391,
+    "annee": 2015,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "MINATTI FALKE Laouali",
+    "titre": "Contribution du secteur informel à la croissance économique du Niger",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 392,
+    "annee": 2015,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "MOUSSA SARKIN GABASS Souleymane",
+    "titre": "Construction d'un indicateur syn thétique d'opinion sur la conjoncture industrielle au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 393,
+    "annee": 2015,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "OGOULO BAZOUMA Cyrille Gervais",
+    "titre": "Ouverture commerciale et croissance économique au Gabon",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 394,
+    "annee": 2015,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "RABO Souleymane",
+    "titre": "Efficience de l'activité de transport routier de marchandises sur les corridors Douala-Ndjamena et Douala-Bangui",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 395,
+    "annee": 2015,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "RAMDE Serge Victorien Wendtinbnoma",
+    "titre": "Analyse de la dynamique du risque de défaillance des entreprises au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 396,
+    "annee": 2015,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "SBE G. Davy",
+    "titre": "Impact de l'accès au crédit sur la production et le revenu agricole des ménages rizicoles : cas de la région du Nord-Ouest au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 397,
+    "annee": 2015,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "VIBOUDOULOU VILPOUX Mervy Ever",
+    "titre": "Impact de l'amélioration des technologies post recolte du riz sur la productivité : cas du battage",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 398,
+    "annee": 2015,
+    "type": "Rapport",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Emmanuel Steeve HABACK II",
+    "titre": "ANALYSE CONJONCTURELLE DES INDICATEURS TYPES DU SECTEUR AGRICOLE",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 399,
+    "annee": 2016,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MAIGA Issaka Hamdi",
+    "titre": "Modélisation et prévision des cas de paludisme au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 400,
+    "annee": 2016,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MANDABA Martial Donald",
+    "titre": "Les déterminants de la participation des femmes à l'emploi au Cameroun : cas du secteur informel",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 401,
+    "annee": 2016,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MITOUMOUENI Antoine",
+    "titre": "Effet de la baisse des ressources pétrolières sur le niveau de règlement des dépenses de l'Etat du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 402,
+    "annee": 2016,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "OUMAR Nour Mahamat",
+    "titre": "Construction de l'indice de paix et sécurité au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 403,
+    "annee": 2016,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Rodrigue MARÉ",
+    "titre": "Analyse de la criminalité au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 404,
+    "annee": 2016,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Saleh Ali ABAKAR",
+    "titre": "Analyse spatiale de la morbidité due au paludisme dans la région de l'Est du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 405,
+    "annee": 2016,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "YAPOU NDERKANZUKU Arnaud",
+    "titre": "Prévention du paludisme et morbidité palustre chez la femme enceinte au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 406,
+    "annee": 2016,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "Ando RAHASIMBELONIRINA",
+    "titre": "Les effets de l'étuvage de riz sur le gain des transformateurs cas : région Nord-Ouest du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 407,
+    "annee": 2016,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "Aurelie NGALULA NGASSAM",
+    "titre": "Analyse de la soutenabilité de la dette du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 408,
+    "annee": 2016,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "KONOU Akakpo Domefa",
+    "titre": "Analyse de l'efficacité productive des riziculteurs au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 409,
+    "annee": 2016,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "MUKAM MAOUEMBE Arielle",
+    "titre": "Détermination d'une règle de politique monétaire optimale pour la BEAC",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 410,
+    "annee": 2016,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "Nawalyath Gnon Yari SOULE ADAM",
+    "titre": "Performance environnementale du secteur agricole en Afrique centrale : mesure et déterminants",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 411,
+    "annee": 2016,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "NDJEKOU Christian",
+    "titre": "Aide publique au développement et croissance économique au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 412,
+    "annee": 2016,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "TCHAKOUTE NJEUNKAM Kévine",
+    "titre": "Facteurs explicatifs de la persuasion publicitaire dans le secteur de la téléphonie mobile à Yaoundé",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 413,
+    "annee": 2016,
+    "type": "Rapport",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Freddy Donald FOGUE NOUMSSI",
+    "titre": "Analyse de la soutenabilité de la dette du Cameroun de 2016 à 2035",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 414,
+    "annee": 2017,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "ABAKAR KOSKIA - Joa Miguel",
+    "titre": "Connaissances et perception des réseaux sociaux par les habitants de la ville de Yaoundé : Quels défis ?",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 415,
+    "annee": 2017,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Franck ONANA TSANGA",
+    "titre": "Solde budgétaire et cycle économique au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 416,
+    "annee": 2017,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Jean de Dieu DELI MADJEON",
+    "titre": "Le statut sérologique au VIH/SIDA et ses facteurs explicatifs chez les jeunes de 15-24 ans au Cameroun : une analyse des changements survenus entre 2004 et 2011",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 417,
+    "annee": 2017,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "CHAPDA NANA Lucien",
+    "titre": "Impact de la construction de la route DJOUM-MINTOM sur les conditions de vie des populations riveraines",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 418,
+    "annee": 2017,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "KAMWA NOUTCHA Yannick Joël",
+    "titre": "Préférences et parts de marche sur le marché de la bière dans la ville de Yaoundé : une approche par analyse conjointe",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 419,
+    "annee": 2017,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "MATAGU FONKOU Christiana",
+    "titre": "Analyse de la viabilité de la balance courante du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 420,
+    "annee": 2017,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "Vanelle Jodelle SEUNKAM NGASSAM",
+    "titre": "Influence du climatiseur sur le prix des produits vivriers au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 421,
+    "annee": 2017,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "Vivien ONKA MOUANDA",
+    "titre": "Elaboration d'un modèle d'équilibre général calculable standard à partir de la MCS primaire ajustée : Cas du Mali",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 422,
+    "annee": 2017,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "WENDJI NGAKO Jérémie",
+    "titre": "Estimation et déterminants des pertes post-recolte sur la chaine d'approvisionnement de Safou au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 423,
+    "annee": 2017,
+    "type": "Rapport",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "AKANA NAGOU Ulrich Fairy",
+    "titre": "Profil de l’infection à VIH chez les femmes enceintes reçues en première consultation prénatale en 2016 au Cameroun ",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 424,
+    "annee": 2017,
+    "type": "Rapport",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "SONNA FEUGAP Gandhi Emmanuel",
+    "titre": "Étude descriptive de la capacité de stockage céréalière dans les régions à risque d’insécurité alimentaire",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 425,
+    "annee": 2017,
+    "type": "Rapport",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Vanessa TATSABONG TAKO",
+    "titre": "Caractéristiques cliniques et biologiques des enfants à l’inclusion dans la cohorte ANRS-PEDIACAM au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 426,
+    "annee": 2018,
+    "type": "Groupe de travail",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "SA'A TANTCHI Sergiot Patrick, SIAKAM TCHAMABO Christian et NDONGO EYINGA René Basin",
+    "titre": "Développement d'un indicateur de stress financier dans la CEMAC",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 427,
+    "annee": 2018,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "AKENANDE ODOU Grâce",
+    "titre": "Estimation du niveau de ressources publiques au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 428,
+    "annee": 2018,
+    "type": "Rapport",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "DJUFFO DJOUDA Sandra",
+    "titre": "Ciblage marketing : appétence à la carte bancaire visa cas de la commercial Bank-Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 429,
+    "annee": 2018,
+    "type": "Rapport",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Peggy Tatiana BENGONO Catherine",
+    "titre": "Evaluation de l'état du réseau routier camerounais au premier semestre de l'année 2018",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 430,
+    "annee": 2018,
+    "type": "Rapport",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "TANGA NKOULA Guillaume Brice",
+    "titre": "Analyse de l'évolution du commerce extérieur du Cameroun de 2010 à 2016",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 431,
+    "annee": 2019,
+    "type": "Rapport",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "DZELAMONYUY Abdou Rahaman",
+    "titre": "Analyse des delai de mise sous traitement de PvVIH du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 432,
+    "annee": 2020,
+    "type": "Mémoire",
+    "formation": "Continue",
+    "filiere": "MSA",
+    "auteur": "AKAKPO YAO Nyanyuie Cédric",
+    "titre": "Impact du projet PASSA : cas des bénéficiaires de la filière café-cacao au Togo",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 433,
+    "annee": 2020,
+    "type": "Groupe de travail",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "﻿﻿KAPCHE SANGUE Raissa Estelle et DJEPI TOUNKAP Josiane Fanny",
+    "titre": "Examen de la relation entre la croissance et la rentabilité des PME Camerounaises",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 434,
+    "annee": 2020,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Ange Maria MOUSSISA MBELLA",
+    "titre": "Facteurs de risque de la transmission Mère-Enfant du VIH chez les enfants de moins de 18 mois dépistés au CIRC",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 435,
+    "annee": 2020,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Berry SWANA MUKANDA",
+    "titre": "Analyse des facteurs associés au delai de mise sous TARV des PvVIH au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 436,
+    "annee": 2020,
+    "type": "Rapport",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Jonathan VANGU",
+    "titre": "Construction et analyse de l'évolution de l'indice de chiffre d'affaires industriel au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 437,
+    "annee": 2020,
+    "type": "Rapport",
+    "formation": "Initiale",
+    "filiere": "TSS",
+    "auteur": "Exauce Josse Alzin Mendel DIASSOUKA MAMPOUYA",
+    "titre": "Analyse de l'évolution de l'activité bancaire au Cameroun entre 2010 et 2018",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 438,
+    "annee": 2021,
+    "type": "Mémoire",
+    "formation": "Continue",
+    "filiere": "L2BD",
+    "auteur": "Anick parfait EWANGA",
+    "titre": "Valorisation de la base de données Automatic Detection Configuration (ADC)",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 439,
+    "annee": 2021,
+    "type": "Mémoire",
+    "formation": "Continue",
+    "filiere": "MAP",
+    "auteur": "NGUEDANOUM Henry-Jefferson",
+    "titre": "Evaluation de la disponibilité céréalière des ménages agricoles ruraux au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 440,
+    "annee": 2021,
+    "type": "Mémoire",
+    "formation": "Continue",
+    "filiere": "MSA",
+    "auteur": "ANGUISSA Christian",
+    "titre": "Analyse de la rentabilité des exploitations cacaoyères de la région du Centre au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 441,
+    "annee": 2021,
+    "type": "Mémoire",
+    "formation": "Continue",
+    "filiere": "MSA",
+    "auteur": "BELPORO DOKO Franck Marcelin",
+    "titre": "Analyse genre des revenus agricoles des acteurs de la filière oignon, cibles du PADFA II, dans le Nord et l'Extrême-Nord du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 442,
+    "annee": 2021,
+    "type": "Mémoire",
+    "formation": "Continue",
+    "filiere": "MSA",
+    "auteur": "KAMGA TCHWAKET Ignace",
+    "titre": "Analyse comparative de la pauvreté des ménages agricoles au Cameroun : cas des départements de la Lekié et de la Benoué",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 443,
+    "annee": 2021,
+    "type": "Rapport",
+    "formation": "Continue",
+    "filiere": "L2BD",
+    "auteur": "Fatoumata TOURE",
+    "titre": "Etude du profil de la population de la base de données du Recensement administratif à vocation d'Etat civil au Mali dans la période 2016 - 2020",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 444,
+    "annee": 2021,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Aboubacar SAÏDOU BOUREIMA",
+    "titre": "Customer value management appliqué à la banque : une approche axée sur la prédiction de la valeur vie des clients particuliers d’Afriland First Bank",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 445,
+    "annee": 2021,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Christian Borel WAFO KANKEU",
+    "titre": "Les déterminants du port de la ceinture de sécurité par les automobilistes au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 446,
+    "annee": 2021,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Daniel NKAMENI",
+    "titre": "Ciblage des ménages en insécurité alimentaire",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 447,
+    "annee": 2021,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Emmanuel KABA",
+    "titre": "Analyse de l'effet du déficit budgétaire sur la croissance économique au Cameroun durant la période 1997-201",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 448,
+    "annee": 2021,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Haman Hakim MOUNDE MFORIFOUM",
+    "titre": "Facteurs associés au dépistage du VIH chez les adolescents et jeunes camerounais de 15-24 ans sexuellement actifs",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 449,
+    "annee": 2021,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Jonathan VANGU",
+    "titre": "Analyse de l'efficience technique des producteurs de cacao au Cameroun : cas des régions du Centre et du Sud-Oues",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 450,
+    "annee": 2021,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Ramiro Obama MEÑE ABANG",
+    "titre": "Étude de la non rétention en soins des personnes vivant avec le VIH dans la région du Centre-Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 451,
+    "annee": 2021,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "SAWADOGO Julien",
+    "titre": "Analyse des effets de l'endettement extérieur sur la croissance économique du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 452,
+    "annee": 2021,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "Dieuveil Le Messi MBAMA MBOU",
+    "titre": "Soutenabilité des finances publiques, ajustement budgétaire et croissance économique au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 453,
+    "annee": 2021,
+    "type": "Rapport",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Abimael NAZARETH MAHOUNGOU ",
+    "titre": "Analyse descriptive de l’évolution des dépenses de fonctionnement du Cameroun dans le cadre du DSCE",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 454,
+    "annee": 2021,
+    "type": "Rapport",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MOULDESSOU Goudougna",
+    "titre": "Facteurs explicatifs de la morbidité diarrhéique chez les enfants en milieu rural au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 455,
+    "annee": 2021,
+    "type": "Rapport",
+    "formation": "Initiale",
+    "filiere": "TSS",
+    "auteur": " BAKALA KINKIELELE Godiswith Datervelle",
+    "titre": "Méthodologie de l'indicateur du bien-être dans la ECAM IV___apport de l'enquête sur les unités non standards (NSU)",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 456,
+    "annee": 2022,
+    "type": "Mémoire",
+    "formation": "Continue",
+    "filiere": "MDSMS",
+    "auteur": "Alvine FANDIO",
+    "titre": "Prêts bancaires et facteurs prédictifs du non remboursement dans une banque camerounaise",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 457,
+    "annee": 2022,
+    "type": "Mémoire",
+    "formation": "Continue",
+    "filiere": "MDSMS",
+    "auteur": "LEKELEM DONGMO Giles Protais",
+    "titre": "Estimation des performances d'un test de diagnostic de la tuberculose latente en l'absence d'un test de référence",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 458,
+    "annee": 2022,
+    "type": "Mémoire",
+    "formation": "Continue",
+    "filiere": "MDSMS",
+    "auteur": "MOUSTAPHA MBENGUE",
+    "titre": "Zonage climatique du Sénégal et élaboration des modèles de prévisions de températures moyennes mensuelles selon la zone",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 459,
+    "annee": 2022,
+    "type": "Mémoire",
+    "formation": "Continue",
+    "filiere": "MDSMS",
+    "auteur": "TSAGUE VOUFO Guilaine Linda",
+    "titre": "Développement d'un modèle d'aide à l'évaluation du taux de retention des employés dans le cadre duprojet emplyé track de Inch Tech Sarl",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 460,
+    "annee": 2022,
+    "type": "Projet tutoré",
+    "formation": "Continue",
+    "filiere": "MAP",
+    "auteur": "AKIEME AFOGO & NGATSE Léon Halliday",
+    "titre": "Comparaison des marges bénéficiaires entre les acteurs de la chaine de commercialisation des cossettes de manioc à Yaoundé, Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 461,
+    "annee": 2022,
+    "type": "Projet tutoré",
+    "formation": "Continue",
+    "filiere": "MAP",
+    "auteur": "ELLA EKA'A Soleil & MOUBANE Elysée",
+    "titre": "Accès aux services de microfinance et amélioration des conditions de vie des ménages pauvres au Tchad",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 462,
+    "annee": 2022,
+    "type": "Projet tutoré",
+    "formation": "Continue",
+    "filiere": "MDSMS",
+    "auteur": "ABA'A ONDOUA Fidèle Mathieu & NDOH Cletus NJI",
+    "titre": "Prédiction de risque de diabète à l'aide des techniques d'apprentissage automatique",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 463,
+    "annee": 2022,
+    "type": "Projet tutoré",
+    "formation": "Continue",
+    "filiere": "MDSMS",
+    "auteur": "DAYI KAMGUEU Emard Josué & BODOL BALOGOG Aurélien",
+    "titre": "Détection de la somnolence au volant à l'aide des montres/bracelets connectés",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 464,
+    "annee": 2022,
+    "type": "Projet tutoré",
+    "formation": "Continue",
+    "filiere": "MDSMS",
+    "auteur": "EBOT Providence Etengeneng & ESSAMBE BOME Vincent Ledoux",
+    "titre": "Conception d'un système d'information statistique pour l'antenne régionale de la commission nationale des droits de l'homme deu cameroun pour le Sud",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 465,
+    "annee": 2022,
+    "type": "Projet tutoré",
+    "formation": "Continue",
+    "filiere": "MDSMS",
+    "auteur": "FEUKENG MAFOUEDJIO Vanessa & PELAPI PICHELE Aimé Vanel",
+    "titre": "Détection de fraude de réclamation d'assurance automobile",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 466,
+    "annee": 2022,
+    "type": "Projet tutoré",
+    "formation": "Continue",
+    "filiere": "MDSMS",
+    "auteur": "JOUNDA Michelle Vanelle & FOPA TEKOUTSAP Patrick",
+    "titre": "Dynamique du COVID-19 : focus sur l'Afrique",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 467,
+    "annee": 2022,
+    "type": "Projet tutoré",
+    "formation": "Continue",
+    "filiere": "MDSMS",
+    "auteur": "M'BEMI ABESSOLO Nathaniel, NANA Ruddy Luther & NDAM POFOURA Yves",
+    "titre": "Utilisation de pyspark avec un autoencodeur débruiteur pour la détection des intrusions dans un réseau",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 468,
+    "annee": 2022,
+    "type": "Rapport",
+    "formation": "Continue",
+    "filiere": "L2BD",
+    "auteur": "MOUNDEM NSANGOU Paul Léonid",
+    "titre": "Mise en place d'une base de données des douanes de la zone CEMAC à la BEAC",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 469,
+    "annee": 2022,
+    "type": "Groupe de travail",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "ABDOULAYE Rahama & METOEVI Gbètognon",
+    "titre": "Modélisation de l'indice de perception de risque-pays dans la zone CEMAC :  indice CRES (Country Risk Expert Survey)",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 470,
+    "annee": 2022,
+    "type": "Groupe de travail",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "AMANI WEMA Patrick & KIENDREBEOGO Innocent",
+    "titre": "Croissance économique, politique monétaire et changement climatique en Afrique subsaharienne",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 471,
+    "annee": 2022,
+    "type": "Groupe de travail",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "DEFFO Christophe & KWEBITEU Valery Dimitri",
+    "titre": "Analyse de l'offre et de la demande de matériel de génie civil au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 472,
+    "annee": 2022,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "ABDELWAHID Ali Nour Guedemi",
+    "titre": "Déterminants de la rentabilité des entreprises au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 473,
+    "annee": 2022,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "AWA MUGUMA Yves",
+    "titre": "Analyse de l'optimalité monétaire dans la communauté économiquedes Etats de l'Afrique centrale (CEEAC)",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 474,
+    "annee": 2022,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Chancelin NGUEKORAL",
+    "titre": "Comparaison des bras dans le cadre d'une évaluation d'impact : cas de l'enquête de l'étude sur les violences basées sur le genre et les projets de filets sociaux",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 475,
+    "annee": 2022,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Exaucée MISSENGUE MOULOMBO",
+    "titre": "Tendances et déterminants de la connaissance complète du VIH/SIDA chez les jeunes de 15-24 ans au Cameroun de 2004 à 2018",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 476,
+    "annee": 2022,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MPELIKALI Lochrist",
+    "titre": "Influence de l'état de santé de la mère pendant la grossesse sur la mortalité infantile au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 477,
+    "annee": 2022,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "NAZARETH MAHOUNGOU Abimael",
+    "titre": "Facteurs associés à la vaccination des enfants de 0 à 23 mois au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 478,
+    "annee": 2022,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "SAWADOGO Julien",
+    "titre": "FACTEURS EXPLICATIFS DE LA NON-UTILISATION DE LA MOUSTIQUAIRE IMPRÉGNÉE PAR LES FEMMES ENCEINTES AU CAMEROUN",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 479,
+    "annee": 2022,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "BITSAMOU Pagnol Eustache",
+    "titre": "Déterminants de la migration des unités de production informelles vers le secteur formel au Mali",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 480,
+    "annee": 2022,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "Brady De Grâce BOUEYA NGOUALA",
+    "titre": "Méthodologie du suivi de la conjoncture du secteur agricole au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 481,
+    "annee": 2022,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "DANZI NZONGU TE KULE Armand Gauthier",
+    "titre": "Les déterminants de l'autodépistage du VIH au Cameroun en 2018",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 482,
+    "annee": 2022,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "DEFFO Christophe",
+    "titre": "Efficience des dépenses publiques sur la transformation structurelle au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 483,
+    "annee": 2022,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "EMAM NZAME EKOME Dominique",
+    "titre": "Estimation des élasticités des exportations et des importations de biens : cas du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 484,
+    "annee": 2022,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "KIENDREBEOGO INNOCENT",
+    "titre": "Les déterminants du déficit du compte courant du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 485,
+    "annee": 2022,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "METOEVI Gbètognon",
+    "titre": "Déterminants de la transformation numérique des entreprises industrielles du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 486,
+    "annee": 2022,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "Rosny Blondo GANOU VOUTSA",
+    "titre": "Les facteurs d'influence du Net promoteur Score à Afrinland First Bank",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 487,
+    "annee": 2022,
+    "type": "Rapport",
+    "formation": "Initiale",
+    "filiere": "AS",
+    "auteur": "BANZOUZI MIAMPASSI Hermann",
+    "titre": "CARACTERISTIQUES NON FINANCIERES DES PETITES ET MOYENNES ENTREPRISES AU CAMEROUN ET ACCES AU FINANCEMENT",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 488,
+    "annee": 2022,
+    "type": "Rapport",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MANGWA CECYL Larenne",
+    "titre": "Facteurs associés à l'insécurité alimentaire : une approche orientée genre",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 489,
+    "annee": 2022,
+    "type": "Rapport",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MISSENGUE MOULOMBO Exaucée",
+    "titre": "Analyse de la non observance au traitement des enfants de 0-14 ans infectés par le VIH et suivi dans les sites de prise en charge au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 490,
+    "annee": 2022,
+    "type": "Rapport",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MOBELI Jules Murphy Aristote",
+    "titre": "Analyse de l'évolution et prévision des recettes pétrolières trimestrielles du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 491,
+    "annee": 2022,
+    "type": "Rapport",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "NAZARETH MAHOUNGOU Abimael",
+    "titre": "Analyse descriptive de l'évolution des dépenses de fonctionnement du Cameroun dans le cadre du DSCE",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 492,
+    "annee": 2022,
+    "type": "Rapport",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "NDZONDE FONKOU Yvan Landry",
+    "titre": "Analyse de la rentabilité de la cacoculture au Cameroun. Le cas des arrondissements d'Ayos et de Konye",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 493,
+    "annee": 2022,
+    "type": "Rapport",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Stanislas MBOUNGOU MANGOUBI",
+    "titre": "Analyse de la sincérité de la programmation budgétaire de l'année 2021 du MINEPAT",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 494,
+    "annee": 2022,
+    "type": "Rapport",
+    "formation": "Initiale",
+    "filiere": "TSS",
+    "auteur": "ABOUBAKAR Ali Ibrahim",
+    "titre": "Conception d'un système d'information Statistique à l’antenne régionale du Sud de la Commission des Droits de l'Homme du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 495,
+    "annee": 2023,
+    "type": "Mémoire",
+    "formation": "Continue",
+    "filiere": "L2BD",
+    "auteur": "NJIFEGUEN PEMI Samir Hadi",
+    "titre": "Conception et réalisation d'un système décisionnel de suivi mensuel su risque fiscal des contribuables et des perfoemances des structures opérationnelles des impôts",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 496,
+    "annee": 2023,
+    "type": "Mémoire",
+    "formation": "Continue",
+    "filiere": "L2BD",
+    "auteur": "SIDIBE Pierre Claver",
+    "titre": "Conception d'un outil d'analyse de la valeur d'activité de la déclaration des contribuables du cameroun (LUMINEX)",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 497,
+    "annee": 2023,
+    "type": "Mémoire",
+    "formation": "Continue",
+    "filiere": "LGTSD",
+    "auteur": "DONGMO SOUMELOU Yves Emmanuel Guillaume",
+    "titre": "Impact de la hausse du prix des produits pétroliers sur l'inflation au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 498,
+    "annee": 2023,
+    "type": "Mémoire",
+    "formation": "Continue",
+    "filiere": "MAP",
+    "auteur": "MOUBANE Elysée",
+    "titre": "Elaboration d'une carte de pauvrété monétaire au Tchad",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 499,
+    "annee": 2023,
+    "type": "Mémoire",
+    "formation": "Continue",
+    "filiere": "MDSMS",
+    "auteur": "DAYI KAMGUEU Emard Josué",
+    "titre": "Construction d'un indicateur d'alerte pour le paiement de la TVA et prédiction du risque de déclaration des contribuables de la DGE",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 500,
+    "annee": 2023,
+    "type": "Mémoire",
+    "formation": "Continue",
+    "filiere": "MDSMS",
+    "auteur": "FEUKENG MAFOUEDJIO Vanessa",
+    "titre": "Facteurs de risque de retard scolaire cherz les enfants infectés ou non infectés par le VIH suivis dans la cohorte ANRS 12225-PEDIACAM III au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 501,
+    "annee": 2023,
+    "type": "Mémoire",
+    "formation": "Continue",
+    "filiere": "MDSMS",
+    "auteur": "FIDELE MATHIEU ABA'A ONDOUA",
+    "titre": "Incidence de l'innovation technologique sur la performance des entreprises de téléphonie mobile au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 502,
+    "annee": 2023,
+    "type": "Mémoire",
+    "formation": "Continue",
+    "filiere": "MDSMS",
+    "auteur": "NANA Rudy Luther",
+    "titre": "Prêt bancaire et anticipation d'impayés des clients non-salariés",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 503,
+    "annee": 2023,
+    "type": "Projet tutoré",
+    "formation": "Continue",
+    "filiere": "MAP",
+    "auteur": "KAMDEM SIMO Patrick Steve et KONCTHOU TAKOUKAM Bénédicte Stella",
+    "titre": "Politique d'import substitution et transformation structurelle au Cameroun : une approche en équilibre général calculable dynamique",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 504,
+    "annee": 2023,
+    "type": "Groupe de travail",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "ATIPO ITOUA Clark Rosny, IBRANGO Abdina & KAMGA BOPDA Davy Romaric",
+    "titre": "Covid-19, crise russo-ukrainienne et inflation en Afrique",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 505,
+    "annee": 2023,
+    "type": "Groupe de travail",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "ATSOPNA MOMO Nidel et KAMDJE SIMO Ophnie Dioline",
+    "titre": "Détermination du budget optimal du ministère des travaux publics pour la réalisation de ses objectifs stratégiques prévusdans la SND30",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 506,
+    "annee": 2023,
+    "type": "Groupe de travail",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "BASSO NGOUNE Steve Edgard & AYMELE GUIMTIO Clarice",
+    "titre": "Cyclicité de la politique budgetaire en Afrique",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 507,
+    "annee": 2023,
+    "type": "Groupe de travail",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "IBRAHIM KAOLACK Mahamat & NKAMO KAMMOGNE Boris Ampère",
+    "titre": "Inflation en zone CEMAC :  analyse de l'efficacité des politiques de statbilisation des prix en lien avec le conflit russo-ukrainien",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 508,
+    "annee": 2023,
+    "type": "Groupe de travail",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "KABORE Salif\n& SEMAKO Filénia Tasmelle Fifamè",
+    "titre": "Corrélation et causalité entre les banques et croissance économique au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 509,
+    "annee": 2023,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "AS",
+    "auteur": "AMEDE NDJIBO Madjitoloum Laokein",
+    "titre": "Détermination de l'accès à une source améliorée d'eau de boisson par les ménages au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 510,
+    "annee": 2023,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "AS",
+    "auteur": "Arcange Behi GABOUNI",
+    "titre": "Facteurs explicatifs de l'accès au crédit bancaire des petites et moyennes entreprises au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 511,
+    "annee": 2023,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "AS",
+    "auteur": "Christ Dorian Trésor NKOUNKOU",
+    "titre": "Dette publique extérieure et ajustement budgétaire en République du Congo",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 512,
+    "annee": 2023,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "AS",
+    "auteur": "Hermann BANZOUZI MIAMPASSI",
+    "titre": "Analyse des déterminants de la création d'emplois par les PME au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 513,
+    "annee": 2023,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "AS",
+    "auteur": "ITOUA ONDET",
+    "titre": "Impact du marketing digital sur la performance commerciale des entreprises",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 514,
+    "annee": 2023,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "AS",
+    "auteur": "Jacques ESWA",
+    "titre": "Pauvreté Trans-saisonnière au Burkina Faso entre 2018 et 2019 : Déterminants, ampleur et implications pour la stratégie de réduction de la pauvreté du PNDES 2021-2025.",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 515,
+    "annee": 2023,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "AS",
+    "auteur": "NKOUNKOU Christ Dorian trésor",
+    "titre": "Dette publique extérieure et ajustement budgetaire en République du Congo",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 516,
+    "annee": 2023,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Christinel Joberflu LOUZOLO",
+    "titre": "Pérennité des TPE et PME au Cameroun : influence des caractéristiques de l'entrepreneur et de l'entreprise",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 517,
+    "annee": 2023,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "DIMO KITIO Ornella",
+    "titre": "Effet du statut de résidence sur les canaux de transmission des plaintes et retours d'information du PAM au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 518,
+    "annee": 2023,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "GANOU VOUTSA Rosny Blondo",
+    "titre": "Surveillance des engagements : anticipation de la première tombée en impayé",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 519,
+    "annee": 2023,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "HARWANIMANA NIYODUSHIMA Jules Christian",
+    "titre": "Elaboration et developpement d'un système interne de cotation de crédit à la first Bank",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 520,
+    "annee": 2023,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Jordy Nifrède MALESSA MPAN",
+    "titre": "Impact des dépenses publiques et de leurs compositions sur l’activité économique : Cas de la République du Congo",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 521,
+    "annee": 2023,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "KALPELBE Béria Chingnabé",
+    "titre": "Variation des prix céréaliers et sécurité alimentaire des ménages vivants dans le « Grand Nord » du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 522,
+    "annee": 2023,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "MAVOUNGOU BADOUA Robert Aureole",
+    "titre": "Les déterminants du succès de la mise en œuvre des projets dans les pays en développement :  cas des pays africains",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 523,
+    "annee": 2023,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Mexan Rimajes MIRIKO",
+    "titre": "Analyse des déterminants de la productivité des clients entreprises d’Afriland First-Bank",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 524,
+    "annee": 2023,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "NDZONDE FONKOU Yvan Landry",
+    "titre": "Effet de la formation en école paysanne sur les rendements et les marges des producteurs de cacao au Cameroun__le cas des producteurs des arrondissements d'Ayos et de Konye",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 525,
+    "annee": 2023,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "PETNGA NJEUMEN Ange Yelva",
+    "titre": "Modélisation des comprtements d'utilisation des cartes bancaires par les clients particuliers d'AFRILAND FIRST BANK",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 526,
+    "annee": 2023,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "Princy Coda Kénan LOUKOUBAMA",
+    "titre": "Les rigidités du marché de travail au Cameroun : analyse à partir des données de l'EESI 2005 et 2010",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 527,
+    "annee": 2023,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "ABDOULAYE Rahama",
+    "titre": "Analyse de l'efficience technique des producteurs de manioc en République centrafricaine",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 528,
+    "annee": 2023,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "ATSOPNA MOMO NIDEL",
+    "titre": "Construction d'un framework d'analyse sémantique et statistiques des feedbacks clients",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 529,
+    "annee": 2023,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "AYMELE GUIMTIO Clarice",
+    "titre": "Effets des inégalités dans la qualité de l'offre des services d'éducation primaire sur la performance scolaire au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 530,
+    "annee": 2023,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "AZENA ALIDA Laura",
+    "titre": "Estimation de la production potentielle du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 531,
+    "annee": 2023,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "BASSO NGOUNE Steve Edgard",
+    "titre": "Effets de l'endettement sur l'efficacité de la politique budgétaire dans les pays de la zone CEMAC",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 532,
+    "annee": 2023,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "FOMEKONG TSAMENE Achille",
+    "titre": "Modélisation du comportement des abonnés digitaux chez Orange Cameroun : focus sur les utilisateurs de l'application \"My Orange\"",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 533,
+    "annee": 2023,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "IBRAHIM KAOLACK Mahamat",
+    "titre": "Analyse de la viabilité du déficit du compte courant du Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 534,
+    "annee": 2023,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "IBRANGO Abdina",
+    "titre": "Analyse de la vulnérabilité des bénéficiaires en fonction de la modalité d'assistance : Cas des réfugiés centrafricains",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 535,
+    "annee": 2023,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "KAMDEM SIMO Patrick Steve",
+    "titre": "Les effets de l'urbanisation et de la diaspora sur les importations des produits de grande consommation en Afrique",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 536,
+    "annee": 2023,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "Laura AZENA ALIDA & MOHAMADOU MAZOU",
+    "titre": "Impact de la hausse des prix des produits pétroliers à la pompe dans l'économie camerounaise",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 537,
+    "annee": 2023,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "MOHAMADOU MAZOU",
+    "titre": "Politique d'import substitution et sécurité alimentaire au Cameroun : une approche en Équilibre Général Calculable dynamique",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 538,
+    "annee": 2023,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "Ophnie Dioline KAMDJE SIMO",
+    "titre": "Modélisation des indicateurs du Customer Care",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 539,
+    "annee": 2023,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "Salif KABORE",
+    "titre": "Optimalité de la pression fiscale et croissance économique au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 540,
+    "annee": 2023,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "SEMAKO Filénia Tasmelle Fifamè",
+    "titre": "Impact des télécommunications sur la croissance économique au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 541,
+    "annee": 2023,
+    "type": "Rapport",
+    "formation": "Initiale",
+    "filiere": "AS",
+    "auteur": "AMEDE NDJIBO Madjitoloum Laokein",
+    "titre": "Description du profil sociodémographique et clinique des patients atteints du pian et traités au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 542,
+    "annee": 2023,
+    "type": "Rapport",
+    "formation": "Initiale",
+    "filiere": "AS",
+    "auteur": "NKOUNKOU Christ Dorian trésor",
+    "titre": "Lien entre les conditions de travail et la productivité des employés au sein des entreprises camerounaises",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 543,
+    "annee": 2023,
+    "type": "Rapport",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "ANGOUNOU ATANGANA Hardy Darnelle",
+    "titre": "Apport des petites et moyennes entreprises au processus de transformation structurelle de l'économie camerounaise",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 544,
+    "annee": 2023,
+    "type": "Rapport",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "AWA MUGUMA Yves",
+    "titre": "Utilisation et perception du marketing de réseau par les habitants de la ville de Yaoundé",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 545,
+    "annee": 2023,
+    "type": "Rapport",
+    "formation": "Initiale",
+    "filiere": "IAS",
+    "auteur": "KALPELBE Béria Chingnabé",
+    "titre": "Analyse de l'effet de la crise Russo-Ukrainienne sur les recettes fiscales du Tchad",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 546,
+    "annee": 2024,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "AS",
+    "auteur": "Paul Vanic Darius ATSABOUSSA",
+    "titre": "Analyse des effets du type de financement sur la capacité d'innovation au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 547,
+    "annee": 2024,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "AS",
+    "auteur": "Tardi LOUFOUMA KAYA",
+    "titre": "Déterminants de la formalisation des unités de production au Cameroun",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 548,
+    "annee": 2024,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "NTAMBA Mervhy Exaucé",
+    "titre": "Marché des titres publics de la CEMAC : analyse de la performance des trésors publics",
+    "date_ajout": "2025-11-15 19:47:02"
+  },
+  {
+    "id": 549,
+    "annee": 2024,
+    "type": "Mémoire",
+    "formation": "Initiale",
+    "filiere": "ISE",
+    "auteur": "TCHYKA Aimé Chryss Fabrice",
+    "titre": "Modélisation de l'épargne supplémentaire des clients de la First Bank : cas des dépôts à vue",
+    "date_ajout": "2025-11-15 19:47:02"
+  }
+]
