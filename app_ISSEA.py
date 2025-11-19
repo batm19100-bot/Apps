@@ -333,7 +333,7 @@ st.markdown("---")
 st.markdown(
     """
     <div style='text-align: center'>
-        <p>📚 Système de Gestion des Documents Archivés ISSEA | Données stockées en JSON</p>
+        <p>📚 Système de Gestion des Documents Archivés ISSEA | copyright Freddy BAT (MDSMS, 2025)</p>
     </div>
     """,
     unsafe_allow_html=True
