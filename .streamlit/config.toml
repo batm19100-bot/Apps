@@ -16,6 +16,7 @@ backgroundColor="#FFFFFF"
 secondaryBackgroundColor="#F2F2F2"
 textColor="#000000"
 font="sans serif"
+base="dark"
 
 # Désactiver certains messages
 [client]
