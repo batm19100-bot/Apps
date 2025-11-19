@@ -84,7 +84,7 @@ def modifier_document(doc_id, annee, titre, type_doc, formation, filiere, auteur
     sauvegarder_donnees(donnees)
 
 # Titre principal
-st.title("📚 Système de Gestion des Documents Archivés - ISSEA")
+st.title("📚 Système de Gestion des Mémoires professionnels et Rapports de stage Archivés - ISSEA")
 st.markdown("---")
 
 # Barre latérale pour la navigation
@@ -205,14 +205,14 @@ elif menu == "➕ Ajouter un document":
         
         with col1:
             annee = st.text_input("Année *", placeholder="Ex: 2024")
-            type_doc = st.text_input("Type de document *", placeholder="Ex: Rapport, Mémoire, Thèse")
+            type_doc = st.text_input("Type de document *", placeholder="Ex: Rapport, Mémoire, Projet tutoré, Groupe de Travail")
             formation = st.text_input("Formation *", placeholder="Ex: Initiale, Continue")
         
         with col2:
-            filiere = st.text_input("Filière *", placeholder="Ex: IAS, ISE, AS")
+            filiere = st.text_input("Filière *", placeholder="Ex: IAS, ISE, AS, TSS, MDSMS, MAP, L2BD, MSA, ...")
             auteur = st.text_input("Auteur *", placeholder="Ex: Nom Prénom")
         
-        titre = st.text_area("Titre du document *", placeholder="Ex: Analyse des déterminants...", height=100)
+        titre = st.text_area("Titre du document *", placeholder="Ex: Modèle génératif ...", height=100)
         
         st.markdown("*Champs obligatoires")
         
