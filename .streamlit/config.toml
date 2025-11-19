@@ -1,0 +1,22 @@
+# ======= PERSONNALISATION DE L'INTERFACE STREAMLIT =======
+
+# Masquer entièrement le bandeau du haut (Share, GitHub, Edit, etc.)
+[ui]
+hideTopBar = true
+hideSidebarNav = true
+
+# Masquer les "hamburger menu" et éléments annexes
+[browser]
+gatherUsageStats = false
+
+# Définir un thème (facultatif)
+[theme]
+primaryColor="#1954A6"
+backgroundColor="#FFFFFF"
+secondaryBackgroundColor="#F2F2F2"
+textColor="#000000"
+font="sans serif"
+
+# Désactiver certains messages
+[client]
+showErrorDetails = true   # tu peux mettre false si tu veux cacher les erreurs
